@@ -1,3 +1,3 @@
-### death_time.py
+### days_left.py
 
-using date and datetime to create a death clock
+using date and datetime to create a days left countdown
