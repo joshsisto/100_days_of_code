@@ -6,9 +6,8 @@ import urllib.request
 SHUTDOWN_EVENT = 'Shutdown initiated'
 
 # prep: read in the logfile
-logfile = r'C:\Users\jsistox\PycharmProjects\create_trk\venv\tmp\log.txt'
-#logfile = os.path.join('/tmp', 'log')
-#urllib.request.urlretrieve('http://bit.ly/2AKSIbf', logfile)
+logfile = os.path.join('/tmp', 'log')
+urllib.request.urlretrieve('http://bit.ly/2AKSIbf', logfile)
 with open(logfile) as f:
     loglines = f.readlines()
 
@@ -28,6 +27,8 @@ def convert_to_datetime(line):
 
 #convert_to_datetime(loglines)
 
+words_list = []
+
 def time_between_shutdowns(loglines):
     '''TODO 2:
        Extract shutdown events ("Shutdown initiated") from loglines and calculate the
@@ -35,14 +36,14 @@ def time_between_shutdowns(loglines):
        Return this datetime.timedelta object.'''
     for line in loglines:
         words = line.split()
-        words_list = []
         if str(words[-2:]) == r"['Shutdown', 'initiated.']":
-            words_list.append(line)
-            #print(str(words[-2:]))
-            #print(words_list)
-            print(words_list)
+            words[1] = datetime.strptime(words[1], '%Y-%m-%dT%H:%M:%S')
+            words_list.append(words)
+    print(words_list)
+    first_shut = words_list[0]
+    second_shut = words_list[1]
+    print(second_shut[1] - first_shut[1])
 
-        #print(str(words[-2:]))
 
     pass
 
