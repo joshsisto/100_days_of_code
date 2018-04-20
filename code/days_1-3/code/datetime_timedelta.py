@@ -5,6 +5,12 @@ from datetime import timedelta
 
 t = timedelta(days=4, hours=10)
 
+tt = timedelta(seconds=5.5)
+
+print(t)
+
+print(tt)
+
 print(t.days)
 
 print(t.seconds)
