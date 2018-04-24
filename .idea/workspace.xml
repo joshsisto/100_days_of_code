@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e56ae494-637e-4441-be97-171da3ac3de4" name="Default" comment="" />
+    <list default="true" id="e56ae494-637e-4441-be97-171da3ac3de4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/code/days_1-3/code/day_3_project/pomo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/days_1-3/code/day_3_project/pomodoro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +16,8 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/100_days_of_code$days_left.coverage" NAME="days_left Coverage Results" MODIFIED="1524184250381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/days_1-3/code" />
     <SUITE FILE_PATH="coverage/100_days_of_code$datetime_timedelta.coverage" NAME="datetime_timedelta Coverage Results" MODIFIED="1524184139406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/days_1-3/code" />
+    <SUITE FILE_PATH="coverage/100_days_of_code$pomodoro.coverage" NAME="pomodoro Coverage Results" MODIFIED="1524399996767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/days_1-3/code/day_3_project" />
+    <SUITE FILE_PATH="coverage/100_days_of_code$pomo2.coverage" NAME="pomo2 Coverage Results" MODIFIED="1524404654978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/days_1-3/code/day_3_project" />
     <SUITE FILE_PATH="coverage/100_days_of_code$log_parser_solution.coverage" NAME="log_parser_solution Coverage Results" MODIFIED="1524182977499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/days_1-3/code/bite7" />
     <SUITE FILE_PATH="coverage/100_days_of_code$easier_question.coverage" NAME="easier_question Coverage Results" MODIFIED="1524189003131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/days_1-3/code/bite7" />
   </component>
@@ -47,11 +53,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="easier_question.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="easier_question.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code/days_1-3/code/bite7/easier_question.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            <state>
+              <caret selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pomodoro.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/days_1-3/code/day_3_project/pomodoro.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding>
+                <element signature="e#701#737#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pomo2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/days_1-3/code/day_3_project/pomo2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1353">
+              <caret line="121" column="23" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="23" />
+              <folding>
+                <element signature="e#524#561#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,6 +95,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>noti</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -75,6 +110,8 @@
         <option value="$PROJECT_DIR$/code/days_1-3/code/datetime_timedelta.py" />
         <option value="$PROJECT_DIR$/code/days_1-3/code/days_left.py" />
         <option value="$PROJECT_DIR$/code/days_1-3/code/bite7/easier_question.py" />
+        <option value="$PROJECT_DIR$/code/days_1-3/code/day_3_project/pomodoro.py" />
+        <option value="$PROJECT_DIR$/code/days_1-3/code/day_3_project/pomo2.py" />
       </list>
     </option>
   </component>
@@ -132,6 +169,14 @@
               <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="bite7" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="100_days_of_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100_days_of_code" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="days_1-3" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="day_3_project" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -140,9 +185,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.easier_question">
+  <component name="RunManager" selected="Python.pomo2">
     <configuration name="datetime_timedelta" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100_days_of_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,7 +260,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="log_parser_solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pomo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100_days_of_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,29 +268,50 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/days_1-3/code/bite7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/days_1-3/code/day_3_project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/days_1-3/code/bite7/log_parser_solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/days_1-3/code/day_3_project/pomo2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="pomodoro" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="100_days_of_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/days_1-3/code/day_3_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/days_1-3/code/day_3_project/pomodoro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.log_parser_solution" />
       <item itemvalue="Python.datetime_timedelta" />
       <item itemvalue="Python.days_left" />
       <item itemvalue="Python.easier_question" />
+      <item itemvalue="Python.pomodoro" />
+      <item itemvalue="Python.pomo2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pomo2" />
+        <item itemvalue="Python.pomodoro" />
         <item itemvalue="Python.easier_question" />
         <item itemvalue="Python.days_left" />
         <item itemvalue="Python.datetime_timedelta" />
-        <item itemvalue="Python.log_parser_solution" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +330,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -274,7 +340,9 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32923076" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24969475" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -282,7 +350,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -393,8 +460,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code/days_1-3/code/bite7/easier_question.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/days_1-3/code/day_3_project/pomodoro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <element signature="e#701#737#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/days_1-3/code/day_3_project/pomo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1353">
+          <caret line="121" column="23" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="23" />
+          <folding>
+            <element signature="e#524#561#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
