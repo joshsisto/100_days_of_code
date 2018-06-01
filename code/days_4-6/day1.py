@@ -57,7 +57,7 @@ for word in words:
 for k, v in sorted(common_words.items(),
                    key=lambda x: x[1],
                    reverse=True)[:5]:
-    print(k ,v)
+    print(k, v)
 
 print(Counter(words).most_common(5))
 
@@ -71,16 +71,6 @@ def insert_and_delete(ds):
         index = random.choice(range(100))
         ds.remove(index)
         ds.insert(index, index)
-
-
-
-
-
-
-
-
-
-
 
 
 
