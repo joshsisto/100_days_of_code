@@ -23,3 +23,19 @@ print("Days left: ", death_death, "days, if I live to be 86")
 
 print("Days here: ", days_alive, "days")
 
+
+
+def death_clock():
+    DOB_input = input('What is your date of birth?\n Format YYYY-MM-DD\n').split("-")
+    DOB = []
+    for num in DOB_input:
+        DOB.append(int(num))
+    DOB = date(DOB[0], DOB[1], DOB[2])
+    years_left = input("How many years do you estimate you have left?\n")
+    death_day = DOB.replace(DOB.year + int(years_left))
+    death_death = (death_day - DOB).days
+    print(f'\nYou estimate that you have {death_death} days left.')
+
+
+death_clock()
+
