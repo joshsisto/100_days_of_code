@@ -1,7 +1,6 @@
 from collections import defaultdict, namedtuple, Counter, deque
 import csv
 import random
-from urllib.request import urlretrieve
 
 
 # namedtuple
@@ -9,20 +8,19 @@ user1 = ('bob', 'coder')
 
 print(f'{user1[0]} is a {user1[1]}')
 
+User = namedtuple('User', 'name role hire_date')
 
-User = namedtuple('User', 'name role')
+user2 = User(name='bob', role='coder', hire_date='8-12-14')
 
-user2 = User(name='bob', role='coder')
+print(user2.name, user2.role, user2.hire_date)
+print(type(user2))
 
-print(user2.name, user2.role)
-
-print(f'{user2.name} is a {user2.role}')
+print(f'{user2.name} is a {user2.role}, hired on {user2.hire_date}')
 
 # defaultdict
 users_d = {'bob': 'coder'}
 
 print(users_d['bob'])
-
 print(users_d.get('bob'))
 
 
@@ -35,8 +33,8 @@ challenges = defaultdict(list)
 for name, challenge in challenges_done:
     challenges[name].append(challenge)
 
-print(challenges)
-
+print("Challenges:", challenges)
+print(challenges['julian'])
 
 words = """Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been 
 the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and 
@@ -72,6 +70,6 @@ def insert_and_delete(ds):
         ds.remove(index)
         ds.insert(index, index)
 
-
-
+insert_and_delete(deq)
+insert_and_delete(lst)
 
