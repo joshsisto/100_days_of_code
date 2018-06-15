@@ -13,3 +13,11 @@ For Code Challenge 13 - Highest Rated Movie Directors we used a nice movie data 
 ## Third day: more practice on your own data
 
 We challenge you to find your own data set and try to use the new collections data structures yourself.
+
+#### Datacamp Course
+https://www.datacamp.com/courses/intro-to-python-for-data-science
+#### Datasets:
+https://assets.datacamp.com/production/course_735/datasets/baseball.csv
+https://assets.datacamp.com/production/course_735/datasets/fifa.csv
+
+day6.py
