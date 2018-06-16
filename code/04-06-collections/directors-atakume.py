@@ -3,8 +3,8 @@ from csv import DictReader
 from itertools import groupby
 
 MOVIE_DATA = 'movie_metadata.csv'
-NUM_TOP_DIRECTORS = 20
-MIN_MOVIES = 4
+NUM_TOP_DIRECTORS = 500
+MIN_MOVIES = 1
 MIN_YEAR = 1960
 
 Movie = namedtuple('Movie', 'title year score')
@@ -43,14 +43,14 @@ def _calc_mean(movies):
 
 def print_results(filmographies):
     fmt_director_entry = '{counter}. {director:<52} {avg:.1f}'
-    fmt_movie_entry = '{year}] {title:<50} {score}'
+    fmt_movie_entry = '[{year}] {title:<49} {score}'
     sep_line = '-' * 60
     for filmography, i in zip(filmographies, range(1, len(filmographies)+1)):
         print(fmt_director_entry.format(counter=i, director=filmography.director, avg=filmography.avg_score))
         print(sep_line)
         for movie in filmography.movies:
             print(fmt_movie_entry.format(year=movie.year, title=movie.title, score=movie.score))
-
+        print(sep_line)
 
 def main():
     directors = get_movies_by_director()
