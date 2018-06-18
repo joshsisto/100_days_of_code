@@ -23,8 +23,8 @@ def get_first_model_each_manufacturer():
     for k, v in cars.items():
         # print(v[0])
         first_car.append(v[0])
-    print(first_car)
-    return firsjt_car
+    # print(first_car)
+    return first_car
     pass
 
 
@@ -37,13 +37,18 @@ def get_all_matching_models(grep='trail'):
         for i in v:
             if "Trail" in i:
                 trail_list.append(i)
-    print(trail_list)
+    # print(trail_list)
     return trail_list
     pass
 
 
 def sort_car_models():
     """sort the car models (values) and return the resulting cars dict"""
+    for v in cars.values():
+        # cars[v].sort()
+        print(sorted(v))
+        # print(sorted(v))
+    print(cars)
     pass
 
 
