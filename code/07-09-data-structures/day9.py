@@ -38,6 +38,12 @@ NOT_FOUND = 'N/A'
 def get_every_nth_state(n=10):
     """Return a list with every nth item (default 10th item)
        of states (takeaway: lists keep order)"""
+    nth_list = []
+    for count, state in enumerate(states, 1):
+        if count % n == 0:
+            nth_list.append(state)
+            print(state)
+    return nth_list
     pass
 
 
@@ -45,12 +51,24 @@ def get_state_abbrev(abbrev):
     """Look up a state abbreviation by full name in
        us_state_abbrev, if not found return NOT_FOUND
        (takeaway: dicts are great for lookups)"""
+    match = None
+    for k, v in us_state_abbrev.items():
+        if k == abbrev:
+            match = True
+            print(v)
+            return v
+    if match == None:
+        print(NOT_FOUND)
+        return NOT_FOUND
     pass
 
 
 def get_longest_state(data):
     """Takes dict or list and determines the longest state name
        (takeaways: use a dict method to get all keys, use sorted)"""
+    for k in sorted(data, key=len, reverse=True):
+        print(k)
+        return k
     pass
 
 
@@ -59,11 +77,20 @@ def combine_state_names_and_abbreviations():
        us_state_abbrev dict ordered values and the last 10 states from
        the states list (takeaways: use another dict method to get all
        values and use sorted, list slicing and list concatenation)"""
+    new_lst = []
+    for v in sorted(us_state_abbrev.values()):
+        new_lst.append(v)
+    new_lst = new_lst[:10]
+    ord_state = sorted(states)
+    for state in sorted(ord_state[-10:]):
+        new_lst.append(state)
+    print(new_lst)
+    return new_lst
     pass
 
 
 get_every_nth_state()
-get_state_abbrev()
-get_longest_state()
+get_state_abbrev("Calrnia")
+get_longest_state(states)
 combine_state_names_and_abbreviations()
 
