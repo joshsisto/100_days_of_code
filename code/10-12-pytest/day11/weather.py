@@ -26,19 +26,19 @@ def weather():
     y = round(acceleration['y'], 2)
     z = round(acceleration['z'], 2)
     # Set screen color based on temperature
-    if fahrenheit > 20 and fahrenheit < 80:
+    if 20 <= fahrenheit <= 80:
         bg_color = BLUE
-    elif fahrenheit > 81 and fahrenheit < 90:
+    elif 81 <= fahrenheit <= 90:
         bg_color = GREEN
-    elif fahrenheit > 91 and fahrenheit < 100:
+    elif 91 <= fahrenheit <= 100:
         bg_color = YELLOW
-    elif fahrenheit > 101 and fahrenheit < 102:
+    elif 101 <= fahrenheit <= 102:
         bg_color = ORANGE
-    elif fahrenheit > 103 and fahrenheit < 104:
+    elif 103 <= fahrenheit <= 104:
         bg_color = RED
-    elif fahrenheit > 105 and fahrenheit < 109:
+    elif 105 <= fahrenheit <= 109:
         bg_color = BRED
-    elif fahrenheit > 110 and fahrenheit < 120:
+    elif 110 <= fahrenheit <= 120:
         bg_color = WHITE
     else:
         bg_color = GREEN
