@@ -28,13 +28,13 @@ def build_the_three_rolls():
 def choose_RPS():
     choice = input("[r]ock [p]aper [s]cissors\n")
     if choice == "r":
-        print("rock")
+        print("you chose rock")
         return "rock"
     elif choice == "p":
-        print("paper")
+        print("you chose paper")
         return "paper"
     elif choice == "s":
-        print("scissors")
+        print("you chose scissors")
         return "scissors"
     else:
         print("You didn't choose r or p or s")
@@ -61,9 +61,9 @@ def game_loop(player1, player2, rolls):
     count = 0
     while count < 3:
         p2_roll = player2.random_roll
+        print(p2_roll)
         p1_roll = choose_RPS()
 
-        
         # outcome = p1_roll.can_defeat(p2_roll)
 
         # display throws

@@ -9,13 +9,18 @@ class Player:
         self.name = name
         print(name)
 
-
-class Roll(Player):
-    def __init__(self, name):
-        super().__init__(name)
-
-    def player_rolls(self, roll):
-
-
+    def random_roll(self):
+        roll = random.choice(outcomes)
         print(roll)
         return roll
+
+
+class Roll:
+    def __init__(self, roll):
+        self.roll = roll
+        if self.roll not in outcomes:
+            self.roll = random.choice(outcomes)
+
+
+    # def name_of_roll(self):
+
