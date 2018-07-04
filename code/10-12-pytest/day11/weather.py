@@ -21,7 +21,6 @@ def get_timestamp():
 
 def get_sensor_data():
     """Get sensor data from SenseHAT"""
-    sense = SenseHat()
     sense.clear()
     celsius = round(sense.get_temperature(), 1)
     fahrenheit = round(1.8 * celsius + 32, 1)
@@ -90,16 +89,20 @@ def log_sensor_data(result_list):
 
 def weather():
     """Display SenseHAT data on the 8x8 LED grid"""
-    log_sensor_data(get_sensor_data())
-    # Display data 5 times before logging it again
-    for _ in range(5):
-        data_lst = get_sensor_data()
-        sense_data = ("Temp. F {} Temp. C {} Hum. {} Press. {} DewPoint {}"
-                      .format(data_lst[1], data_lst[0], data_lst[2], data_lst[3], data_lst[4]))
-        print(sense_data)
-        set_orientation()
-        bg_color = set_screen_color(data_lst[1])
-        sense.show_message(sense_data, scroll_speed=0.10, back_colour=bg_color, text_colour=WHITE)
+    try:
+        log_sensor_data(get_sensor_data())
+        # Display data 5 times before logging it again
+        for _ in range(50):
+            data_lst = get_sensor_data()
+            sense_data = ("Temp. F {} Temp. C {} Hum. {} Press. {} DewPoint {}"
+                          .format(data_lst[1], data_lst[0], data_lst[2], data_lst[3], data_lst[4]))
+            print(sense_data)
+            set_orientation()
+            bg_color = set_screen_color(data_lst[1])
+            sense.show_message(sense_data, scroll_speed=0.10, back_colour=bg_color, text_colour=WHITE)
+    except ValueError as e:
+        print(e)
+        return e
 
 
 while __name__ == '__main__':
