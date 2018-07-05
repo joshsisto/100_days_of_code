@@ -63,7 +63,7 @@ def game_loop(player1, player2, rolls):
         p2_roll = player2.random_roll
         p1_roll = choose_RPS()
 
-        
+
         # outcome = p1_roll.can_defeat(p2_roll)
 
         # display throws
