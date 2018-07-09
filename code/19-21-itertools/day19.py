@@ -40,4 +40,8 @@ for letter in product(name, repeat=5):
     print(letter)
 
 
- 
+from itertools import permutations, combinations
+
+friends = 'mike bob julian'.split()
+print(list(combinations(friends, 2)))
+
