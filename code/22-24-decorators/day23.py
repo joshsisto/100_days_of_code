@@ -26,7 +26,7 @@ def get_possible_dict_words(draw):
 def _get_permutations_draw(draw):
     """Helper to get all permutations of a draw (list of letters), hint:
        use itertools.permutations (order of letters matters)"""
-    for i in range(1, 8):
+    for i in range(1, 14):
         yield from list(itertools.permutations(draw, i))
 
 
