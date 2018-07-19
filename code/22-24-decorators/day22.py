@@ -19,11 +19,11 @@ def my_function(args):
     pass
 
 
-# def get_profile(name, active=True, *sports, **awards):
-#     print('Positional arguments (required): ', name)
-#     print('Keyword arguments (not required, default values): ', active)
-#     print('Arbitrary argument list (sports): ', sports)
-#     print('Arbitrary keyword argument dictionary (awards): ', awards)
+def get_profile(name, active=True, *sports, **awards):
+    print('Positional arguments (required): ', name)
+    print('Keyword arguments (not required, default values): ', active)
+    print('Arbitrary argument list (sports): ', sports)
+    print('Arbitrary keyword argument dictionary (awards): ', awards)
 
 
 # get_profile() # this would cause error because it is missing argument
@@ -56,13 +56,12 @@ def get_profile(name, active=True, *sports, **awards):
     print('\n\thi from the get_profile function\n')
 
 
-# get_profile('bob', True, 'basketball', 'soccer',
-#             pythonista='special honor of the community', topcoder='2017 code camp')
+get_profile('bob', True, 'basketball', 'soccer',
+            pythonista='special honor of the community', topcoder='2017 code camp')
 
 
 def timeit(func):
     '''Decorator to time a function'''
-
     @wraps(func)
     def wrapper(*args, **kwargs):
         # before calling the decorated function
@@ -137,5 +136,5 @@ def generate_report2(*months, **parameters):
 
 parameters = dict(split_geos=True, include_suborgs=False, tax_rate=33)
 
-generate_report2('October', 'November', 'December', **parameters)
+# generate_report2('October', 'November', 'December', **parameters)
 
