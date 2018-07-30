@@ -91,3 +91,51 @@ print(re.sub(r'\d+', '100', days_text))
 # Change hashtags to DaysofPython
 print(re.sub(r'(#\d+DaysOf)\w+', r'\1Python', days_text))
 
+# Day 29
+bite_text = 'regexes are powerful but use with care, some more text, lets play!'
+# Overkill
+print(re.sub(r'some', 'a bit', bite_text))
+print(re.match(r'^regex', bite_text))
+
+# Instead use this
+print(bite_text.replace('some', 'a bit'))
+
+if bite_text.startswith('regex'):
+    print('that line starts with regex')
+
+# re.match() vs re.search()
+match_text = 'Use match vs search appropriately'
+# Do this
+print(re.match('search', match_text))
+# Don't do this
+print(re.match('.*search', match_text))
+# Better
+print(re.search('search', match_text))
+
+# Non capture parenthesis
+tweet = 'New PyBites article: Module of the Week - Requests-cache for Repeated API Calls - http://pybit.es/requests-cache.html … #python #APIs'
+print(re.findall(r'((?:#|http)\S+)', tweet))
+# When we don't use (?:) it goes wrong
+print(re.findall(r'((#|http)\S+)', tweet))
+
+# HTML
+html = """<div><p>Today a quick article on a nice caching module when working with APIs.</p><p>Read more ...</p></div>"""
+m = re.search('<p>.*</p>', html)    # This grabs too much
+print(m.group())
+m2 = re.search('<p>.*?</p>', html)  # This grabs what we want (notice the ?)
+print(m2.group())
+
+# Backreferences
+p = re.compile(r'(\b\w+)\s+\1')
+p2 = p.search('Paris in the the spring').group()
+print(p2)
+
+
+def search_file(file):
+    file_content = open(file).read()  # should have used with
+    time_regex = re.compile(r'\(\d+:\d+\)')  # seems we needed literal parenthesis as part of the match
+    return time_regex.findall(file_content)
+
+
+
+
