@@ -1,0 +1,219 @@
+[2018-08-01 01:57:21.209744] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 01:57:24.884739] TRACE: API: Starting search for boom
+[2018-08-01 01:57:25.162567] TRACE: API: Request finished, status code 200.
+[2018-08-01 01:57:25.162809] TRACE: API: Finished search for boom, 3 results in 278 ms.
+[2018-08-01 01:57:25.163181] TRACE: App: Search successful: keyword: boom, 3 results.
+[2018-08-01 01:58:10.274920] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 01:58:13.241108] TRACE: API: Starting search for bang
+[2018-08-01 01:58:13.429876] TRACE: API: Request finished, status code 200.
+[2018-08-01 01:58:13.430123] TRACE: API: Finished search for bang, 5 results in 189 ms.
+[2018-08-01 01:58:13.430266] TRACE: App: Search successful: keyword: bang, 5 results.
+[2018-08-01 01:58:13.430457] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 01:58:16.403629] TRACE: API: Starting search for 
+[2018-08-01 01:58:16.403781] WARNING: API: No keyword supplied
+[2018-08-01 01:58:16.403875] WARNING: App: You must specify a search term.
+[2018-08-01 01:58:16.404073] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 01:58:21.014421] TRACE: API: Starting search for boom
+[2018-08-01 01:58:21.196656] TRACE: API: Request finished, status code 200.
+[2018-08-01 01:58:21.196950] ERROR: App: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "/Users/joshsisto/Documents/GitHub/100_days_of_code/code/31-33-logging/movie_search_logging_edition/program.py", line 13, in main
+    results = api.find_movie_by_title(keyword)
+  File "/Users/joshsisto/Documents/GitHub/100_days_of_code/code/31-33-logging/movie_search_logging_edition/api.py", line 35, in find_movie_by_title
+    for r in results.get('hits'):
+TypeError: 'NoneType' object is not iterable
+[2018-08-01 01:58:21.197754] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 01:58:24.156763] TRACE: API: Starting search for boom
+[2018-08-01 01:58:24.344027] TRACE: API: Request finished, status code 200.
+[2018-08-01 01:58:24.344268] TRACE: API: Finished search for boom, 3 results in 187 ms.
+[2018-08-01 01:58:24.344423] TRACE: App: Search successful: keyword: boom, 3 results.
+[2018-08-01 01:58:24.344678] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 01:58:26.664134] TRACE: API: Starting search for scram
+[2018-08-01 01:58:26.846139] TRACE: API: Request finished, status code 200.
+[2018-08-01 01:58:26.846415] TRACE: API: Finished search for scram, 0 results in 182 ms.
+[2018-08-01 01:58:26.846600] TRACE: App: Search successful: keyword: scram, 0 results.
+[2018-08-01 01:58:26.846941] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 01:58:31.602657] TRACE: API: Starting search for scratch
+[2018-08-01 01:58:31.781375] TRACE: API: Request finished, status code 200.
+[2018-08-01 01:58:31.781564] TRACE: API: Finished search for scratch, 0 results in 178 ms.
+[2018-08-01 01:58:31.781661] TRACE: App: Search successful: keyword: scratch, 0 results.
+[2018-08-01 01:58:31.781839] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 01:58:35.696864] TRACE: API: Starting search for bat
+[2018-08-01 01:58:35.891455] TRACE: API: Request finished, status code 200.
+[2018-08-01 01:58:35.891773] TRACE: API: Finished search for bat, 10 results in 194 ms.
+[2018-08-01 01:58:35.891936] TRACE: App: Search successful: keyword: bat, 10 results.
+[2018-08-01 01:58:35.892126] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 01:58:42.241236] TRACE: API: Starting search for a
+[2018-08-01 01:58:42.441023] TRACE: API: Request finished, status code 200.
+[2018-08-01 01:58:42.441289] TRACE: API: Finished search for a, 10 results in 200 ms.
+[2018-08-01 01:58:42.441444] TRACE: App: Search successful: keyword: a, 10 results.
+[2018-08-01 01:58:42.441641] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:07:08.529453] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:07:12.576072] TRACE: API: Starting search for boom
+[2018-08-01 02:07:12.760740] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:07:12.761036] TRACE: API: Finished search for boom, 3 results in 184 ms.
+[2018-08-01 02:07:12.761223] TRACE: App: Search successful: keyword: boom, 3 results.
+[2018-08-01 02:07:12.761497] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:07:15.961444] TRACE: API: Starting search for bam
+[2018-08-01 02:07:16.143215] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:07:16.143441] TRACE: API: Finished search for bam, 6 results in 182 ms.
+[2018-08-01 02:07:16.143577] TRACE: App: Search successful: keyword: bam, 6 results.
+[2018-08-01 02:07:16.143765] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:07:19.223804] TRACE: API: Starting search for sc
+[2018-08-01 02:07:19.408510] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:07:19.408897] ERROR: App: 
+Traceback (most recent call last):
+  File "/Users/joshsisto/Documents/GitHub/100_days_of_code/code/31-33-logging/movie_search_logging_edition/program.py", line 13, in main
+    results = api.find_movie_by_title(keyword)
+  File "/Users/joshsisto/Documents/GitHub/100_days_of_code/code/31-33-logging/movie_search_logging_edition/api.py", line 32, in find_movie_by_title
+    results = create_random_errors(results)
+  File "/Users/joshsisto/Documents/GitHub/100_days_of_code/code/31-33-logging/movie_search_logging_edition/api.py", line 56, in create_random_errors
+    raise StopIteration()
+StopIteration
+[2018-08-01 02:07:19.409699] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:07:21.238472] TRACE: API: Starting search for s
+[2018-08-01 02:07:21.435769] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:07:21.436016] TRACE: API: Finished search for s, 10 results in 197 ms.
+[2018-08-01 02:07:21.436174] TRACE: App: Search successful: keyword: s, 10 results.
+[2018-08-01 02:07:21.436376] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:09:09.929946] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:09:12.749272] TRACE: API: Starting search for Action
+[2018-08-01 02:09:12.937990] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:09:12.938298] TRACE: API: Finished search for Action, 8 results in 189 ms.
+[2018-08-01 02:09:12.938480] TRACE: App: Search successful: keyword: Action, 8 results.
+[2018-08-01 02:09:12.938720] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:15:04.466137] TRACE: API: Starting search for face
+[2018-08-01 02:15:04.660914] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:15:04.661225] TRACE: API: Finished search for face, 5 results in 195 ms.
+[2018-08-01 02:15:04.661429] TRACE: App: Search successful: keyword: face, 5 results.
+[2018-08-01 02:15:04.661721] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:27:55.206524] TRACE: API: Starting search for 
+[2018-08-01 02:27:55.206709] WARNING: API: No keyword supplied
+[2018-08-01 02:27:55.206853] WARNING: App: You must specify a search term.
+[2018-08-01 02:27:55.207126] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:27:55.207343] TRACE: API: Starting search for 
+[2018-08-01 02:27:55.207432] WARNING: API: No keyword supplied
+[2018-08-01 02:27:55.207527] WARNING: App: You must specify a search term.
+[2018-08-01 02:27:55.207723] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:27:57.509811] TRACE: API: Starting search for face
+[2018-08-01 02:27:57.690282] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:27:57.690581] TRACE: API: Finished search for face, 5 results in 180 ms.
+[2018-08-01 02:27:57.690796] TRACE: App: Search successful: keyword: face, 5 results.
+[2018-08-01 02:27:57.691068] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:27:59.117879] TRACE: API: Starting search for dig
+[2018-08-01 02:27:59.294831] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:27:59.295179] ERROR: App: 
+Traceback (most recent call last):
+  File "/Users/joshsisto/Documents/GitHub/100_days_of_code/code/31-33-logging/movie_search_logging_edition/program.py", line 13, in main
+    results = api.find_movie_by_title(keyword)
+  File "/Users/joshsisto/Documents/GitHub/100_days_of_code/code/31-33-logging/movie_search_logging_edition/api.py", line 32, in find_movie_by_title
+    results = create_random_errors(results)
+  File "/Users/joshsisto/Documents/GitHub/100_days_of_code/code/31-33-logging/movie_search_logging_edition/api.py", line 56, in create_random_errors
+    raise StopIteration()
+StopIteration
+[2018-08-01 02:27:59.296425] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:28:00.738049] TRACE: API: Starting search for dug
+[2018-08-01 02:28:00.921754] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:28:00.922304] TRACE: API: Finished search for dug, 0 results in 184 ms.
+[2018-08-01 02:28:00.922718] TRACE: App: Search successful: keyword: dug, 0 results.
+[2018-08-01 02:28:00.923414] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:28:02.609597] TRACE: API: Starting search for dag
+[2018-08-01 02:28:02.793027] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:28:02.793514] TRACE: API: Finished search for dag, 6 results in 183 ms.
+[2018-08-01 02:28:02.793809] TRACE: App: Search successful: keyword: dag, 6 results.
+[2018-08-01 02:28:02.794161] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:28:05.193745] TRACE: API: Starting search for da
+[2018-08-01 02:28:05.376542] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:28:05.377023] TRACE: API: Finished search for da, 10 results in 183 ms.
+[2018-08-01 02:28:05.377328] TRACE: App: Search successful: keyword: da, 10 results.
+[2018-08-01 02:28:05.377736] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:28:06.543305] TRACE: API: Starting search for de
+[2018-08-01 02:28:06.730105] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:28:06.730408] ERROR: App: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "/Users/joshsisto/Documents/GitHub/100_days_of_code/code/31-33-logging/movie_search_logging_edition/program.py", line 13, in main
+    results = api.find_movie_by_title(keyword)
+  File "/Users/joshsisto/Documents/GitHub/100_days_of_code/code/31-33-logging/movie_search_logging_edition/api.py", line 35, in find_movie_by_title
+    for r in results.get('hits'):
+TypeError: 'NoneType' object is not iterable
+[2018-08-01 02:28:06.730781] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:30:39.243909] TRACE: API: Starting search for 
+[2018-08-01 02:30:39.244108] WARNING: API: No keyword supplied
+[2018-08-01 02:30:39.244276] WARNING: App: You must specify a search term.
+[2018-08-01 02:30:39.244567] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:30:39.244804] TRACE: API: Starting search for 
+[2018-08-01 02:30:39.244900] WARNING: API: No keyword supplied
+[2018-08-01 02:30:39.245033] WARNING: App: You must specify a search term.
+[2018-08-01 02:30:39.245394] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:30:41.560190] TRACE: API: Starting search for runner
+[2018-08-01 02:30:41.738251] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:30:41.738590] TRACE: API: Finished search for runner, 6 results in 178 ms.
+[2018-08-01 02:30:41.738770] TRACE: App: Search successful: keyword: runner, 6 results.
+[2018-08-01 02:30:41.739092] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:37:27.466914] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:37:30.651169] TRACE: API: Starting search for face
+[2018-08-01 02:37:30.865774] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:37:30.866179] TRACE: API: Finished search for face, 5 results in 215 ms.
+[2018-08-01 02:37:30.866378] TRACE: App: Search successful: keyword: face, 5 results.
+[2018-08-01 02:37:30.866661] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:37:34.284251] TRACE: API: Starting search for di
+[2018-08-01 02:37:34.469040] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:37:34.469481] TRACE: API: Finished search for di, 10 results in 185 ms.
+[2018-08-01 02:37:34.469833] TRACE: App: Search successful: keyword: di, 10 results.
+[2018-08-01 02:37:34.470240] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:37:42.217792] TRACE: API: Starting search for 
+[2018-08-01 02:37:42.217969] WARNING: API: No keyword supplied
+[2018-08-01 02:37:42.218085] WARNING: App: You must specify a search term.
+[2018-08-01 02:37:42.218334] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:37:43.791861] TRACE: API: Starting search for 
+[2018-08-01 02:37:43.792055] WARNING: API: No keyword supplied
+[2018-08-01 02:37:43.792184] WARNING: App: You must specify a search term.
+[2018-08-01 02:37:43.792485] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:37:44.983510] TRACE: API: Starting search for 
+[2018-08-01 02:37:44.983708] WARNING: API: No keyword supplied
+[2018-08-01 02:37:44.983846] WARNING: App: You must specify a search term.
+[2018-08-01 02:37:44.984170] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:37:48.201342] TRACE: API: Starting search for gi
+[2018-08-01 02:37:48.382162] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:37:48.382594] TRACE: API: Finished search for gi, 10 results in 181 ms.
+[2018-08-01 02:37:48.382879] TRACE: App: Search successful: keyword: gi, 10 results.
+[2018-08-01 02:37:48.383230] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:51:41.105382] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:51:45.074736] TRACE: API: Starting search for you
+[2018-08-01 02:51:45.269434] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:51:45.269908] TRACE: API: Finished search for you, 10 results in 195 ms.
+[2018-08-01 02:51:45.270225] TRACE: App: Search successful: keyword: you, 10 results.
+[2018-08-01 02:51:45.270595] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:52:28.639867] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:52:31.300068] TRACE: API: Starting search for j
+[2018-08-01 02:52:31.490516] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:52:31.490906] TRACE: API: Finished search for j, 10 results in 190 ms.
+[2018-08-01 02:52:31.491142] TRACE: App: Search successful: keyword: j, 10 results.
+[2018-08-01 02:52:31.491426] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 02:53:44.471046] TRACE: API: Starting search for the
+[2018-08-01 02:53:44.661387] TRACE: API: Request finished, status code 200.
+[2018-08-01 02:53:44.661795] TRACE: API: Finished search for the, 10 results in 190 ms.
+[2018-08-01 02:53:44.662031] TRACE: App: Search successful: keyword: the, 10 results.
+[2018-08-01 02:53:44.662317] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 03:01:42.055895] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 03:01:44.890182] TRACE: API: Starting search for boom
+[2018-08-01 03:01:45.079892] TRACE: API: Request finished, status code 200.
+[2018-08-01 03:01:45.080234] ERROR: App: 
+Traceback (most recent call last):
+  File "/Users/joshsisto/Documents/GitHub/100_days_of_code/code/31-33-logging/movie_search_logging_edition/program.py", line 13, in main
+    results = api.find_movie_by_title(keyword)
+  File "/Users/joshsisto/Documents/GitHub/100_days_of_code/code/31-33-logging/movie_search_logging_edition/api.py", line 32, in find_movie_by_title
+    results = create_random_errors(results)
+  File "/Users/joshsisto/Documents/GitHub/100_days_of_code/code/31-33-logging/movie_search_logging_edition/api.py", line 56, in create_random_errors
+    raise StopIteration()
+StopIteration
+[2018-08-01 03:01:45.080985] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 03:01:46.452919] TRACE: API: Starting search for 
+[2018-08-01 03:01:46.453209] WARNING: API: No keyword supplied
+[2018-08-01 03:01:46.453364] WARNING: App: You must specify a search term.
+[2018-08-01 03:01:46.453656] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
+[2018-08-01 03:01:48.635298] TRACE: API: Starting search for run
+[2018-08-01 03:01:48.819466] TRACE: API: Request finished, status code 200.
+[2018-08-01 03:01:48.819957] TRACE: API: Finished search for run, 10 results in 184 ms.
+[2018-08-01 03:01:48.820264] TRACE: App: Search successful: keyword: run, 10 results.
+[2018-08-01 03:01:48.820639] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: movie-app.log
