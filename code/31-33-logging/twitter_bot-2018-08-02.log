@@ -1,0 +1,944 @@
+[2018-08-02 00:04:50.748123] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: twitter_bot.log
+[2018-08-02 00:04:51.043439] TRACE: App: Printed user and tweet Geeksby
+[2018-08-02 00:05:10.729533] TRACE: App: Printed user and tweet m4con
+[2018-08-02 00:05:30.312623] TRACE: App: Printed user and tweet LuisARIII
+[2018-08-02 00:05:50.359880] TRACE: App: Printed user and tweet Boostlog_js
+[2018-08-02 00:06:09.907566] TRACE: App: Printed user and tweet BoostLog_Python
+[2018-08-02 00:06:29.526092] TRACE: App: Printed user and tweet DanEnglishby
+[2018-08-02 00:06:49.046131] TRACE: App: Printed user and tweet MarcBal77
+[2018-08-02 00:07:08.664955] TRACE: App: Printed user and tweet The_Sorrow_LDP
+[2018-08-02 00:07:28.639397] TRACE: App: Printed user and tweet Dannyhz408
+[2018-08-02 00:07:48.573298] TRACE: App: Printed user and tweet mecmedtecom
+[2018-08-02 00:08:08.385830] TRACE: App: Printed user and tweet WNmyGViFTGADF1Z
+[2018-08-02 00:08:28.184658] TRACE: App: Printed user and tweet Audrey_Lin_D
+[2018-08-02 00:08:47.777224] TRACE: App: Printed user and tweet tech_geck
+[2018-08-02 00:09:07.599302] TRACE: App: Printed user and tweet BaoquanDinh
+[2018-08-02 00:09:27.548679] TRACE: App: Printed user and tweet Ibuamod
+[2018-08-02 00:09:47.747160] TRACE: App: Printed user and tweet PrasadHonrao
+[2018-08-02 00:10:07.389742] TRACE: App: Printed user and tweet HuyCodeNewbie
+[2018-08-02 00:10:27.224285] TRACE: App: Printed user and tweet yummywakame
+[2018-08-02 00:10:46.830304] TRACE: App: Printed user and tweet Wolf294
+[2018-08-02 00:11:06.745393] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:11:26.455085] TRACE: App: Printed user and tweet shrutikapoor08
+[2018-08-02 00:11:46.353638] TRACE: App: Printed user and tweet aitdccd
+[2018-08-02 00:12:06.365573] TRACE: App: Printed user and tweet okarin0720
+[2018-08-02 00:12:26.164360] TRACE: App: Printed user and tweet koutyan0123
+[2018-08-02 00:12:45.905067] TRACE: App: Printed user and tweet pinaudprime
+[2018-08-02 00:13:05.882866] TRACE: App: Printed user and tweet jguaurag
+[2018-08-02 00:13:25.437986] TRACE: App: Printed user and tweet abwahab07
+[2018-08-02 00:13:45.369927] TRACE: App: Printed user and tweet m4con
+[2018-08-02 00:14:04.932840] TRACE: App: Printed user and tweet terbmcjerberson
+[2018-08-02 00:14:24.439749] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:14:43.988777] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:15:03.533019] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:15:23.074992] TRACE: App: Printed user and tweet k8lynmanuel
+[2018-08-02 00:15:42.972367] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:16:02.697475] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:16:22.437599] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:16:41.960639] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:17:01.667936] TRACE: App: Printed user and tweet jonathonpday
+[2018-08-02 00:17:21.171922] TRACE: App: Printed user and tweet reed_tanika
+[2018-08-02 00:17:40.695196] TRACE: App: Printed user and tweet Adefizzy045
+[2018-08-02 00:18:00.509544] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:18:20.291008] TRACE: App: Printed user and tweet kanav_10
+[2018-08-02 00:18:40.145586] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:18:59.694985] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:19:19.344633] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:19:38.947855] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:19:58.547451] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:20:18.100922] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:20:37.650454] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:20:57.190016] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:21:16.872654] TRACE: App: Printed user and tweet abwahab07
+[2018-08-02 00:21:36.455345] TRACE: App: Printed user and tweet zrroberts93
+[2018-08-02 00:21:56.141036] TRACE: App: Printed user and tweet val_codes
+[2018-08-02 00:22:15.954627] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:22:35.603719] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:22:55.198159] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:23:15.050884] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:23:34.610921] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:23:54.227210] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:24:13.773925] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:24:33.360166] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:24:52.902984] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:25:12.526555] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:25:32.337758] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:25:51.925007] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:26:11.654880] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:26:31.202709] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:26:51.026029] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:27:10.663098] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:27:30.229119] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:27:49.892309] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:28:09.482884] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:28:29.505096] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:28:49.073746] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:29:08.618532] TRACE: App: Printed user and tweet sacha0
+[2018-08-02 00:29:28.221921] TRACE: App: Printed user and tweet Geeksby
+[2018-08-02 00:29:47.901419] TRACE: App: Printed user and tweet HarowitzBlack
+[2018-08-02 00:30:07.560297] TRACE: App: Printed user and tweet flaviocopes
+[2018-08-02 00:30:27.132709] TRACE: App: Printed user and tweet tomhockett
+[2018-08-02 00:30:46.981667] TRACE: App: Printed user and tweet BenjaminTheDev
+[2018-08-02 00:31:06.808623] TRACE: App: Printed user and tweet appcubation
+[2018-08-02 00:31:26.728438] TRACE: App: Printed user and tweet FollowTheWicked
+[2018-08-02 00:31:46.804916] TRACE: App: Printed user and tweet jayfiled
+[2018-08-02 00:32:06.694022] TRACE: App: Printed user and tweet thejollity
+[2018-08-02 00:32:26.230595] TRACE: App: Printed user and tweet Rwabuhesi
+[2018-08-02 00:32:46.054289] TRACE: App: Printed user and tweet Gopi_TMW
+[2018-08-02 00:33:05.560601] TRACE: App: Printed user and tweet LemuelReyes
+[2018-08-02 00:33:25.367631] TRACE: App: Printed user and tweet Cindybarriento5
+[2018-08-02 00:33:45.202743] TRACE: App: Printed user and tweet fullstacklife
+[2018-08-02 00:34:05.460342] TRACE: App: Printed user and tweet fullstacklife
+[2018-08-02 00:34:25.276137] TRACE: App: Printed user and tweet PaolaGuarasci
+[2018-08-02 00:34:45.234394] TRACE: App: Printed user and tweet alex_calzada_1
+[2018-08-02 00:35:05.296900] TRACE: App: Printed user and tweet euvanribeiro
+[2018-08-02 00:35:24.791633] TRACE: App: Printed user and tweet fullstacklife
+[2018-08-02 00:35:44.807833] TRACE: App: Printed user and tweet Cindybarriento5
+[2018-08-02 00:36:04.365631] TRACE: App: Printed user and tweet pruthviraj78
+[2018-08-02 00:36:24.320355] TRACE: App: Printed user and tweet itsFabian
+[2018-08-02 00:36:44.103547] TRACE: App: Printed user and tweet palashv2
+[2018-08-02 00:37:03.586310] TRACE: App: Printed user and tweet kasvith
+[2018-08-02 00:37:23.193496] TRACE: App: Printed user and tweet sc_codeUM
+[2018-08-02 00:37:42.984643] TRACE: App: Printed user and tweet DframeFramework
+[2018-08-02 00:38:02.510723] TRACE: App: Printed user and tweet BxBytesSteph
+[2018-08-02 00:38:22.124761] TRACE: App: Printed user and tweet ujdshhsyah
+[2018-08-02 00:38:42.030194] TRACE: App: Printed user and tweet sc_codeUM
+[2018-08-02 00:39:01.882592] TRACE: App: Printed user and tweet K_FreemanSmith
+[2018-08-02 00:39:21.396014] TRACE: App: Printed user and tweet rohitbattepati
+[2018-08-02 00:39:41.034791] TRACE: App: Printed user and tweet ibadi_1
+[2018-08-02 00:41:25.668221] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: twitter_bot.log
+[2018-08-02 00:41:25.923884] TRACE: App: Printed user and tweet twot_dot_com
+[2018-08-02 00:41:35.857857] TRACE: App: Printed user and tweet jsandapps
+[2018-08-02 00:41:56.152133] TRACE: App: Printed user and tweet saku_s00
+[2018-08-02 00:42:16.005961] TRACE: App: Printed user and tweet 1mwtt
+[2018-08-02 00:42:35.647132] TRACE: App: Printed user and tweet TashaITGirl
+[2018-08-02 00:42:55.751966] TRACE: App: Printed user and tweet GreyMatter_News
+[2018-08-02 00:43:15.617131] TRACE: App: Printed user and tweet iNoma87976671
+[2018-08-02 00:43:35.593282] TRACE: App: Printed user and tweet Lokusdesign
+[2018-08-02 00:43:55.389722] TRACE: App: Printed user and tweet hirzamitz
+[2018-08-02 00:44:15.022120] TRACE: App: Printed user and tweet shaykoala
+[2018-08-02 00:44:34.519711] TRACE: App: Printed user and tweet shearywtan
+[2018-08-02 00:44:42.591761] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: twitter_bot.log
+[2018-08-02 00:44:42.925994] TRACE: App: Printed user and tweet NCTMINHYUNG802
+[2018-08-02 00:44:54.099361] TRACE: App: Printed user and tweet Lucille10597423
+[2018-08-02 00:45:02.685341] TRACE: App: Printed user and tweet BinanceWatcher
+[2018-08-02 00:45:13.885548] TRACE: App: Printed user and tweet DevRandomCsGuy
+[2018-08-02 00:45:22.505545] TRACE: App: Printed user and tweet SoanThat
+[2018-08-02 00:45:33.687917] TRACE: App: Printed user and tweet Nidoprince
+[2018-08-02 00:45:42.419209] TRACE: App: Printed user and tweet Ripple_Mark
+[2018-08-02 00:45:53.177848] TRACE: App: Printed user and tweet m4con
+[2018-08-02 00:46:02.217067] TRACE: App: Printed user and tweet PetraJamonca
+[2018-08-02 00:46:12.682929] TRACE: App: Printed user and tweet RFmatch
+[2018-08-02 00:46:22.048268] TRACE: App: Printed user and tweet BitcoinInsight0
+[2018-08-02 00:46:32.509342] TRACE: App: Printed user and tweet vasilecojusco
+[2018-08-02 00:46:41.604494] TRACE: App: Printed user and tweet Marcomando
+[2018-08-02 00:46:52.342992] TRACE: App: Printed user and tweet garyalexza
+[2018-08-02 00:47:01.432202] TRACE: App: Printed user and tweet LoveForCrypto17
+[2018-08-02 00:47:11.835900] TRACE: App: Printed user and tweet tz_fayvor
+[2018-08-02 00:47:21.330697] TRACE: App: Printed user and tweet Ripple_Mark
+[2018-08-02 00:47:31.582229] TRACE: App: Printed user and tweet satorun_bass
+[2018-08-02 00:47:41.146749] TRACE: App: Printed user and tweet BitcoinBolt
+[2018-08-02 00:47:51.257448] TRACE: App: Printed user and tweet Geeksby
+[2018-08-02 00:47:52.421315] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:47:52.421620] TRACE: App: Printed user and tweet m4con
+[2018-08-02 00:47:53.606159] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:47:53.606377] TRACE: App: Printed user and tweet LuisARIII
+[2018-08-02 00:47:54.778877] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:47:54.779097] TRACE: App: Printed user and tweet Boostlog_js
+[2018-08-02 00:47:56.068783] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:47:56.185890] TRACE: App: Printed user and tweet BoostLog_Python
+[2018-08-02 00:47:57.333757] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:47:57.333978] TRACE: App: Printed user and tweet DanEnglishby
+[2018-08-02 00:47:58.508636] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:47:58.508903] TRACE: App: Printed user and tweet MarcBal77
+[2018-08-02 00:47:59.682577] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:47:59.682797] TRACE: App: Printed user and tweet The_Sorrow_LDP
+[2018-08-02 00:48:00.839236] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:00.839518] TRACE: App: Printed user and tweet Dannyhz408
+[2018-08-02 00:48:01.237298] TRACE: App: Printed user and tweet ripple_821
+[2018-08-02 00:48:02.016485] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:02.016786] TRACE: App: Printed user and tweet mecmedtecom
+[2018-08-02 00:48:03.169276] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:03.169491] TRACE: App: Printed user and tweet WNmyGViFTGADF1Z
+[2018-08-02 00:48:04.317833] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:04.318041] TRACE: App: Printed user and tweet Audrey_Lin_D
+[2018-08-02 00:48:05.469534] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:05.469743] TRACE: App: Printed user and tweet tech_geck
+[2018-08-02 00:48:06.626429] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:06.626699] TRACE: App: Printed user and tweet BaoquanDinh
+[2018-08-02 00:48:07.934624] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:07.934832] TRACE: App: Printed user and tweet Ibuamod
+[2018-08-02 00:48:09.075951] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:09.076255] TRACE: App: Printed user and tweet PrasadHonrao
+[2018-08-02 00:48:10.367558] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:10.484536] TRACE: App: Printed user and tweet HuyCodeNewbie
+[2018-08-02 00:48:11.640453] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:11.640716] TRACE: App: Printed user and tweet yummywakame
+[2018-08-02 00:48:12.816040] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:12.816257] TRACE: App: Printed user and tweet Wolf294
+[2018-08-02 00:48:13.973396] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:13.973661] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:15.136554] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:15.136764] TRACE: App: Printed user and tweet shrutikapoor08
+[2018-08-02 00:48:16.299108] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:16.299314] TRACE: App: Printed user and tweet aitdccd
+[2018-08-02 00:48:17.456762] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:17.457011] TRACE: App: Printed user and tweet okarin0720
+[2018-08-02 00:48:18.612814] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:18.621167] TRACE: App: Printed user and tweet koutyan0123
+[2018-08-02 00:48:19.773420] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:19.773636] TRACE: App: Printed user and tweet pinaudprime
+[2018-08-02 00:48:20.939967] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:20.940208] TRACE: App: Printed user and tweet jguaurag
+[2018-08-02 00:48:21.156560] TRACE: App: Printed user and tweet thangbeo675
+[2018-08-02 00:48:22.171162] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:22.171457] TRACE: App: Printed user and tweet abwahab07
+[2018-08-02 00:48:23.322122] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:23.456906] TRACE: App: Printed user and tweet m4con
+[2018-08-02 00:48:24.703669] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:24.703926] TRACE: App: Printed user and tweet terbmcjerberson
+[2018-08-02 00:48:25.854769] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:25.854981] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:27.005153] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:27.005437] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:28.178441] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:28.178704] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:29.333194] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:29.333404] TRACE: App: Printed user and tweet k8lynmanuel
+[2018-08-02 00:48:30.627897] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:30.628086] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:31.786227] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:31.786509] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:33.023808] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:33.023992] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:34.175934] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:34.176205] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:35.336082] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:35.336339] TRACE: App: Printed user and tweet jonathonpday
+[2018-08-02 00:48:36.484696] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:36.484985] TRACE: App: Printed user and tweet reed_tanika
+[2018-08-02 00:48:37.646108] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:37.646351] TRACE: App: Printed user and tweet Adefizzy045
+[2018-08-02 00:48:38.804352] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:38.804637] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:39.947605] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:40.086651] TRACE: App: Printed user and tweet kanav_10
+[2018-08-02 00:48:41.112692] TRACE: App: Printed user and tweet satoshiuncle_
+[2018-08-02 00:48:41.241651] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:41.241908] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:42.399361] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:42.399593] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:43.551701] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:43.551910] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:44.707310] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:44.707524] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:45.857662] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:45.857873] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:47.080305] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:47.090253] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:48.243665] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:48.243940] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:49.400789] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:49.401005] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:50.544519] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:50.544732] TRACE: App: Printed user and tweet abwahab07
+[2018-08-02 00:48:51.695579] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:51.695897] TRACE: App: Printed user and tweet zrroberts93
+[2018-08-02 00:48:52.865104] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:52.865299] TRACE: App: Printed user and tweet val_codes
+[2018-08-02 00:48:54.017693] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:54.017908] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:55.176937] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:55.177223] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:56.333216] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:56.333432] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:57.481161] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:57.612160] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:48:58.763884] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:48:58.764122] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:00.056026] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:00.056241] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:00.864903] TRACE: App: Printed user and tweet blockhedge2018
+[2018-08-02 00:49:01.214885] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:01.215103] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:02.388162] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:02.388349] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:03.540634] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:03.540847] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:04.695500] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:04.695813] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:05.857697] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:05.857986] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:07.158328] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:07.158541] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:08.314740] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:08.314954] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:09.464541] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:09.464806] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:10.637578] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:10.637779] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:11.787057] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:11.787272] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:12.941318] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:12.941527] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:14.117746] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:14.117960] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:15.277970] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:15.399606] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:16.559226] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:16.559457] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:17.705210] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:17.705458] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 00:49:18.876078] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:18.876331] TRACE: App: Printed user and tweet sacha0
+[2018-08-02 00:49:20.029490] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:20.029747] TRACE: App: Printed user and tweet Geeksby
+[2018-08-02 00:49:20.893058] TRACE: App: Printed user and tweet talesfr45474626
+[2018-08-02 00:49:21.183058] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:21.183323] TRACE: App: Printed user and tweet HarowitzBlack
+[2018-08-02 00:49:22.335627] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:22.335821] TRACE: App: Printed user and tweet flaviocopes
+[2018-08-02 00:49:23.494987] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:23.495254] TRACE: App: Printed user and tweet tomhockett
+[2018-08-02 00:49:24.649432] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:24.649597] TRACE: App: Printed user and tweet BenjaminTheDev
+[2018-08-02 00:49:25.823371] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:25.823661] TRACE: App: Printed user and tweet appcubation
+[2018-08-02 00:49:26.973232] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:26.973452] TRACE: App: Printed user and tweet FollowTheWicked
+[2018-08-02 00:49:28.142727] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:28.142991] TRACE: App: Printed user and tweet jayfiled
+[2018-08-02 00:49:29.292355] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:29.292650] TRACE: App: Printed user and tweet thejollity
+[2018-08-02 00:49:30.466974] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:30.467156] TRACE: App: Printed user and tweet Rwabuhesi
+[2018-08-02 00:49:31.619051] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:31.619364] TRACE: App: Printed user and tweet Gopi_TMW
+[2018-08-02 00:49:33.050731] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:33.160858] TRACE: App: Printed user and tweet LemuelReyes
+[2018-08-02 00:49:34.321604] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:34.321843] TRACE: App: Printed user and tweet Cindybarriento5
+[2018-08-02 00:49:35.484720] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:35.484932] TRACE: App: Printed user and tweet fullstacklife
+[2018-08-02 00:49:36.771530] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:36.771740] TRACE: App: Printed user and tweet fullstacklife
+[2018-08-02 00:49:37.917029] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:37.917243] TRACE: App: Printed user and tweet PaolaGuarasci
+[2018-08-02 00:49:39.083065] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:39.083338] TRACE: App: Printed user and tweet alex_calzada_1
+[2018-08-02 00:49:40.263093] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:40.263374] TRACE: App: Printed user and tweet euvanribeiro
+[2018-08-02 00:49:40.647083] TRACE: App: Printed user and tweet nct_hc06061207
+[2018-08-02 00:49:41.564590] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:41.564850] TRACE: App: Printed user and tweet fullstacklife
+[2018-08-02 00:49:42.719880] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:42.720098] TRACE: App: Printed user and tweet Cindybarriento5
+[2018-08-02 00:49:43.908628] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:43.908934] TRACE: App: Printed user and tweet pruthviraj78
+[2018-08-02 00:49:45.073449] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:45.073671] TRACE: App: Printed user and tweet itsFabian
+[2018-08-02 00:49:46.232619] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:46.383501] TRACE: App: Printed user and tweet palashv2
+[2018-08-02 00:49:47.675351] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:47.675613] TRACE: App: Printed user and tweet kasvith
+[2018-08-02 00:49:48.860979] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:48.861193] TRACE: App: Printed user and tweet sc_codeUM
+[2018-08-02 00:49:50.017234] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:50.017446] TRACE: App: Printed user and tweet DframeFramework
+[2018-08-02 00:49:51.187314] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:51.187584] TRACE: App: Printed user and tweet BxBytesSteph
+[2018-08-02 00:49:52.474854] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:52.475104] TRACE: App: Printed user and tweet ujdshhsyah
+[2018-08-02 00:49:53.635758] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:53.635978] TRACE: App: Printed user and tweet sc_codeUM
+[2018-08-02 00:49:54.799702] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:54.799963] TRACE: App: Printed user and tweet K_FreemanSmith
+[2018-08-02 00:49:55.954406] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:55.954676] TRACE: App: Printed user and tweet rohitbattepati
+[2018-08-02 00:49:57.103950] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:57.104233] TRACE: App: Printed user and tweet ibadi_1
+[2018-08-02 00:49:58.269621] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-02 00:49:58.269832] TRACE: App: Printed user and tweet prabhusharan4
+[2018-08-02 00:50:00.399723] TRACE: App: Printed user and tweet summerhicks1471
+[2018-08-02 00:50:18.238690] TRACE: App: Printed user and tweet euvanribeiro
+[2018-08-02 00:50:20.061278] TRACE: App: Printed user and tweet digitalgirl00
+[2018-08-02 00:50:37.980893] TRACE: App: Printed user and tweet TechSnazzyLLC
+[2018-08-02 00:50:39.864934] TRACE: App: Printed user and tweet SelfishBearz
+[2018-08-02 00:50:57.887878] TRACE: App: Printed user and tweet JosepLpez92
+[2018-08-02 00:50:59.738346] TRACE: App: Printed user and tweet Ripple_Mark
+[2018-08-02 00:51:17.416733] TRACE: App: Printed user and tweet VSanthoshima
+[2018-08-02 00:51:19.217319] TRACE: App: Printed user and tweet akiho3akiho
+[2018-08-02 00:51:36.917520] TRACE: App: Printed user and tweet danmikhael
+[2018-08-02 00:51:39.145255] TRACE: App: Printed user and tweet Ripple_Mark
+[2018-08-02 00:51:52.223958] TRACE: App: Printed user and tweet AldoGiammusso
+[2018-08-02 00:51:56.867271] TRACE: App: Printed user and tweet Bhaktti_G
+[2018-08-02 00:52:16.683739] TRACE: App: Printed user and tweet penguinmlle
+[2018-08-02 00:52:36.222213] TRACE: App: Printed user and tweet antozone007
+[2018-08-02 00:52:56.242948] TRACE: App: Printed user and tweet lindakatcodes
+[2018-08-02 00:53:16.034301] TRACE: App: Printed user and tweet UnknwnDeveloper
+[2018-08-02 00:53:23.997316] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: twitter_bot.log
+[2018-08-02 00:53:24.410319] TRACE: App: Printed user and tweet Remi_Vladuceanu
+[2018-08-02 00:53:33.732172] TRACE: App: Printed user and tweet bnanex
+[2018-08-02 00:53:36.008425] TRACE: App: Printed user and tweet alexbourlotos
+[2018-08-02 00:53:55.903627] TRACE: App: Printed user and tweet DeniseElaine77
+[2018-08-02 00:54:15.818498] TRACE: App: Printed user and tweet Mc_Jare_Bear
+[2018-08-02 00:54:35.857108] TRACE: App: Printed user and tweet half_liquid
+[2018-08-02 00:54:39.295223] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:54:39.295528] TRACE: App: Printed user and tweet emilledigital
+[2018-08-02 00:54:42.707129] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:54:42.707368] TRACE: App: Printed user and tweet DeniseElaine77
+[2018-08-02 00:55:02.239842] TRACE: App: Printed user and tweet AndroidCiudadan
+[2018-08-02 00:55:22.178674] TRACE: App: Printed user and tweet sumofmybooks
+[2018-08-02 00:55:41.935072] TRACE: App: Printed user and tweet nitanitatyan
+[2018-08-02 00:56:01.976940] TRACE: App: Printed user and tweet Geeksby
+[2018-08-02 00:56:21.480466] TRACE: App: Printed user and tweet CodeRed_Tech
+[2018-08-02 00:56:41.335968] TRACE: App: Printed user and tweet BoostLog_Python
+[2018-08-02 00:56:44.789466] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:56:44.789781] TRACE: App: Printed user and tweet Boostlog_js
+[2018-08-02 00:57:04.275922] TRACE: App: Printed user and tweet IssueHunt
+[2018-08-02 00:57:23.822155] TRACE: App: Printed user and tweet RajagopalIlango
+[2018-08-02 00:57:43.412245] TRACE: App: Printed user and tweet nerfhearder234
+[2018-08-02 00:58:03.331120] TRACE: App: Printed user and tweet gypsycoder1
+[2018-08-02 00:58:23.151587] TRACE: App: Printed user and tweet osuhodo
+[2018-08-02 00:58:26.719912] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:58:26.720161] TRACE: App: Printed user and tweet ReaNewell
+[2018-08-02 00:58:30.288781] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:58:30.289041] TRACE: App: Printed user and tweet martinrobd
+[2018-08-02 00:58:33.716023] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:58:33.716293] TRACE: App: Printed user and tweet DaNexxtOne
+[2018-08-02 00:58:37.114191] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:58:37.114462] TRACE: App: Printed user and tweet VickyTWho
+[2018-08-02 00:58:40.540000] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:58:40.540185] TRACE: App: Printed user and tweet GlynWebDev
+[2018-08-02 00:58:44.143733] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:58:44.143929] TRACE: App: Printed user and tweet iamsooraj
+[2018-08-02 00:58:47.714345] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:58:47.714626] TRACE: App: Printed user and tweet jbrennan414
+[2018-08-02 00:58:51.237744] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:58:51.237999] TRACE: App: Printed user and tweet JamesAuCode
+[2018-08-02 00:58:54.699787] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:58:54.700003] TRACE: App: Printed user and tweet mechasparrow
+[2018-08-02 00:58:58.199041] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:58:58.199332] TRACE: App: Printed user and tweet hope199011
+[2018-08-02 00:59:01.634164] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:01.876993] TRACE: App: Printed user and tweet ramoncalixb
+[2018-08-02 00:59:05.316688] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:05.316906] TRACE: App: Printed user and tweet GabeR85
+[2018-08-02 00:59:08.737951] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:08.738198] TRACE: App: Printed user and tweet HatchingCode
+[2018-08-02 00:59:12.420755] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:12.420969] TRACE: App: Printed user and tweet therealmprove
+[2018-08-02 00:59:15.819647] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:15.819852] TRACE: App: Printed user and tweet D_digital_dog
+[2018-08-02 00:59:19.308859] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:19.309099] TRACE: App: Printed user and tweet KE5SWU
+[2018-08-02 00:59:22.718802] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:22.719088] TRACE: App: Printed user and tweet wayne__wallace
+[2018-08-02 00:59:26.164099] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:26.164300] TRACE: App: Printed user and tweet CLMcCork
+[2018-08-02 00:59:29.590142] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:29.590351] TRACE: App: Printed user and tweet HumbleSondy24
+[2018-08-02 00:59:32.988239] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:32.988465] TRACE: App: Printed user and tweet davibusanello
+[2018-08-02 00:59:36.567821] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:36.568033] TRACE: App: Printed user and tweet PGShohei
+[2018-08-02 00:59:40.005240] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:40.005457] TRACE: App: Printed user and tweet BoostlogHQ
+[2018-08-02 00:59:43.429683] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:43.543224] TRACE: App: Printed user and tweet MrGeislinger
+[2018-08-02 00:59:46.998684] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:47.011313] TRACE: App: Printed user and tweet colegamedesign
+[2018-08-02 00:59:50.422284] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:50.422508] TRACE: App: Printed user and tweet AmanSri70071
+[2018-08-02 00:59:53.850021] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:53.850255] TRACE: App: Printed user and tweet mario_mart92
+[2018-08-02 00:59:57.554773] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 00:59:57.554971] TRACE: App: Printed user and tweet Beef_Studios
+[2018-08-02 01:00:00.979940] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:00.980148] TRACE: App: Printed user and tweet candleships
+[2018-08-02 01:00:04.551092] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:04.551310] TRACE: App: Printed user and tweet CompSciLauren
+[2018-08-02 01:00:08.033827] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:08.034019] TRACE: App: Printed user and tweet TakayukiNakajo
+[2018-08-02 01:00:11.594497] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:11.594773] TRACE: App: Printed user and tweet Wolven531
+[2018-08-02 01:00:15.145913] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:15.146206] TRACE: App: Printed user and tweet theEPIC_me
+[2018-08-02 01:00:18.538032] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:18.538284] TRACE: App: Printed user and tweet Decoder33
+[2018-08-02 01:00:22.003624] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:22.003823] TRACE: App: Printed user and tweet KuleshovDesign
+[2018-08-02 01:00:25.412123] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:25.529507] TRACE: App: Printed user and tweet AlchemyCodeLab
+[2018-08-02 01:00:28.963853] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:28.964087] TRACE: App: Printed user and tweet artofobscura
+[2018-08-02 01:00:32.395212] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:32.395426] TRACE: App: Printed user and tweet Aron_Blazt
+[2018-08-02 01:00:35.980923] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:35.981142] TRACE: App: Printed user and tweet startup_ed
+[2018-08-02 01:00:39.388654] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:39.388936] TRACE: App: Printed user and tweet adriandleon
+[2018-08-02 01:00:42.794747] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:42.795004] TRACE: App: Printed user and tweet Wittionary
+[2018-08-02 01:00:46.208555] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:46.218191] TRACE: App: Printed user and tweet SamSamskies
+[2018-08-02 01:00:49.643634] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:49.643839] TRACE: App: Printed user and tweet dataku_de
+[2018-08-02 01:00:53.077570] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:53.077794] TRACE: App: Printed user and tweet SamuelUmoren16
+[2018-08-02 01:00:56.634185] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:00:56.634460] TRACE: App: Printed user and tweet sonali_ramji
+[2018-08-02 01:01:00.072978] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:00.073190] TRACE: App: Printed user and tweet Geeksby
+[2018-08-02 01:01:03.533703] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:03.533881] TRACE: App: Printed user and tweet AllisonDitmore
+[2018-08-02 01:01:06.958838] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:06.959127] TRACE: App: Printed user and tweet cowharetiger
+[2018-08-02 01:01:10.573017] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:10.573235] TRACE: App: Printed user and tweet MrFresh
+[2018-08-02 01:01:14.000734] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:14.121272] TRACE: App: Printed user and tweet Nasolulu
+[2018-08-02 01:01:17.524787] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:17.525022] TRACE: App: Printed user and tweet deejers7
+[2018-08-02 01:01:20.942907] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:20.943163] TRACE: App: Printed user and tweet xiahou007
+[2018-08-02 01:01:24.373598] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:24.373819] TRACE: App: Printed user and tweet frontendnewbie
+[2018-08-02 01:01:27.929813] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:27.930092] TRACE: App: Printed user and tweet thePacifistDove
+[2018-08-02 01:01:31.362437] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:31.362657] TRACE: App: Printed user and tweet AndreaMelende12
+[2018-08-02 01:01:34.805720] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:34.805989] TRACE: App: Printed user and tweet ryanwelch_1
+[2018-08-02 01:01:38.228367] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:38.228576] TRACE: App: Printed user and tweet slmwebdesignco
+[2018-08-02 01:01:41.667126] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:41.667401] TRACE: App: Printed user and tweet UncaughtRanger
+[2018-08-02 01:01:45.128500] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:45.128764] TRACE: App: Printed user and tweet edwardhong527
+[2018-08-02 01:01:48.645691] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:48.654084] TRACE: App: Printed user and tweet LorriePearson
+[2018-08-02 01:01:52.234686] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:52.234946] TRACE: App: Printed user and tweet program_kakenai
+[2018-08-02 01:01:55.656188] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:55.656465] TRACE: App: Printed user and tweet uotnszw
+[2018-08-02 01:01:59.072604] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:01:59.072856] TRACE: App: Printed user and tweet trevjstevenson
+[2018-08-02 01:02:02.516783] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:02.517059] TRACE: App: Printed user and tweet C4R705_HND
+[2018-08-02 01:02:06.073914] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:06.194499] TRACE: App: Printed user and tweet abott1222
+[2018-08-02 01:02:09.778359] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:09.778682] TRACE: App: Printed user and tweet sanbjames
+[2018-08-02 01:02:13.253050] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:13.253272] TRACE: App: Printed user and tweet uotnszw
+[2018-08-02 01:02:16.696156] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:16.696451] TRACE: App: Printed user and tweet shorty_085
+[2018-08-02 01:02:20.128354] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:20.128572] TRACE: App: Printed user and tweet juliacodes
+[2018-08-02 01:02:23.539958] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:23.540233] TRACE: App: Printed user and tweet hildebeb
+[2018-08-02 01:02:27.173826] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:27.174023] TRACE: App: Printed user and tweet ReinidVal
+[2018-08-02 01:02:30.584268] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:30.584539] TRACE: App: Printed user and tweet deejers7
+[2018-08-02 01:02:34.031391] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:34.031620] TRACE: App: Printed user and tweet aidansantiago97
+[2018-08-02 01:02:37.511286] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:37.511501] TRACE: App: Printed user and tweet nonojr15
+[2018-08-02 01:02:41.050966] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:41.051233] TRACE: App: Printed user and tweet hyhyisso
+[2018-08-02 01:02:44.521565] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:44.521745] TRACE: App: Printed user and tweet kirkyuan
+[2018-08-02 01:02:47.943597] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:47.943815] TRACE: App: Printed user and tweet LhaMonk
+[2018-08-02 01:02:51.531733] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:51.531952] TRACE: App: Printed user and tweet hello_imJustine
+[2018-08-02 01:02:54.986684] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:55.148763] TRACE: App: Printed user and tweet flaviaguterres
+[2018-08-02 01:02:58.668639] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:02:58.668887] TRACE: App: Printed user and tweet Coding_Jesse
+[2018-08-02 01:03:02.106180] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:02.106396] TRACE: App: Printed user and tweet HiiennH
+[2018-08-02 01:03:05.526506] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:05.526711] TRACE: App: Printed user and tweet _xorraxrax
+[2018-08-02 01:03:09.096139] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:09.096412] TRACE: App: Printed user and tweet DenetIglesias
+[2018-08-02 01:03:12.500598] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:12.500816] TRACE: App: Printed user and tweet EryouHao
+[2018-08-02 01:03:15.997769] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:16.002013] TRACE: App: Printed user and tweet BNRBarbara
+[2018-08-02 01:03:19.410946] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:19.411165] TRACE: App: Printed user and tweet fyodorio
+[2018-08-02 01:03:22.823531] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:22.823892] TRACE: App: Printed user and tweet Rizky59058754
+[2018-08-02 01:03:26.233174] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:26.233428] TRACE: App: Printed user and tweet mm_d2018
+[2018-08-02 01:03:29.708023] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:29.708300] TRACE: App: Printed user and tweet JulieCodes1111
+[2018-08-02 01:03:33.124532] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:33.275840] TRACE: App: Printed user and tweet AndrewBasner
+[2018-08-02 01:03:36.680308] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:36.680541] TRACE: App: Printed user and tweet stitchybun
+[2018-08-02 01:03:40.100625] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:40.100848] TRACE: App: Printed user and tweet jsjoeio
+[2018-08-02 01:03:43.513791] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:43.514052] TRACE: App: Printed user and tweet JaielaLondon
+[2018-08-02 01:03:46.933976] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:46.944758] TRACE: App: Printed user and tweet Suman_Mishra4
+[2018-08-02 01:03:50.392718] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:50.393010] TRACE: App: Printed user and tweet Geeksby
+[2018-08-02 01:03:53.954824] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:53.955117] TRACE: App: Printed user and tweet ImLouLouBadillo
+[2018-08-02 01:03:57.432205] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:03:57.432546] TRACE: App: Printed user and tweet sagecodes
+[2018-08-02 01:04:01.131837] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:01.132116] TRACE: App: Printed user and tweet iam_timsmith
+[2018-08-02 01:04:04.538762] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:04.539019] TRACE: App: Printed user and tweet ReactDOM
+[2018-08-02 01:04:07.996080] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:07.996288] TRACE: App: Printed user and tweet MacinCloud
+[2018-08-02 01:04:11.463470] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:11.463691] TRACE: App: Printed user and tweet CodersInHood
+[2018-08-02 01:04:14.883967] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:14.884178] TRACE: App: Printed user and tweet kyleyasumiishi
+[2018-08-02 01:04:18.312337] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:18.431594] TRACE: App: Printed user and tweet mladuke71
+[2018-08-02 01:04:19.361189] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: twitter_bot.log
+[2018-08-02 01:04:19.628450] TRACE: App: Printed user and tweet gatgman
+[2018-08-02 01:04:21.837734] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:21.838026] TRACE: App: Printed user and tweet ZofirAmile
+[2018-08-02 01:04:25.253305] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:25.253688] TRACE: App: Printed user and tweet jcbright
+[2018-08-02 01:04:28.668973] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:28.669162] TRACE: App: Printed user and tweet Tima45887868
+[2018-08-02 01:04:32.074651] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:32.075039] TRACE: App: Printed user and tweet ScottPDiemer
+[2018-08-02 01:04:35.478439] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:35.478660] TRACE: App: Printed user and tweet palashv2
+[2018-08-02 01:04:39.029303] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:39.029482] TRACE: App: Printed user and tweet kailygranados
+[2018-08-02 01:04:39.436487] TRACE: App: Printed user and tweet AndreaFarinet
+[2018-08-02 01:04:42.504415] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:42.504632] TRACE: App: Printed user and tweet netori3
+[2018-08-02 01:04:45.925671] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:45.926011] TRACE: App: Printed user and tweet vanessacnaja
+[2018-08-02 01:04:49.464986] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:49.465230] TRACE: App: Printed user and tweet adriandleon
+[2018-08-02 01:04:52.903714] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:52.903894] TRACE: App: Printed user and tweet _KyleBurkholder
+[2018-08-02 01:04:56.359856] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:04:56.360072] TRACE: App: Printed user and tweet vanessacnaja
+[2018-08-02 01:04:59.293280] TRACE: App: Printed user and tweet euroinvestnews
+[2018-08-02 01:04:59.906417] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:05:00.028575] TRACE: App: Printed user and tweet mtahabilge
+[2018-08-02 01:05:03.536086] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:05:03.536272] TRACE: App: Printed user and tweet ArginAslanian
+[2018-08-02 01:05:07.085116] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:05:07.085325] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 01:05:10.590057] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:05:10.590270] TRACE: App: Printed user and tweet astukari
+[2018-08-02 01:05:14.044859] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:05:14.045068] TRACE: App: Printed user and tweet gabiponcet
+[2018-08-02 01:05:17.575855] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:05:17.579232] TRACE: App: Printed user and tweet SasheemDev
+[2018-08-02 01:05:19.131071] TRACE: App: Printed user and tweet TrustedCars
+[2018-08-02 01:05:20.285361] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:20.285580] TRACE: App: Printed user and tweet DenonJBL
+[2018-08-02 01:05:20.993723] WARNING: App: This is a Tweepy Error: [{'code': 139, 'message': 'You have already favorited this status.'}]
+[2018-08-02 01:05:20.993940] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 01:05:21.449148] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:21.449366] TRACE: App: Printed user and tweet Sparkcrowdfund
+[2018-08-02 01:05:22.190846] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:22.191078] TRACE: App: Printed user and tweet CodersInHood
+[2018-08-02 01:05:22.618498] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:22.618684] TRACE: App: Printed user and tweet bdnews24
+[2018-08-02 01:05:23.363306] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:23.363504] TRACE: App: Printed user and tweet Leelakrishn4
+[2018-08-02 01:05:23.803162] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:23.803433] TRACE: App: Printed user and tweet academics_de
+[2018-08-02 01:05:24.524709] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:24.524932] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 01:05:24.964608] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:24.964796] TRACE: App: Printed user and tweet ZakirJaafar
+[2018-08-02 01:05:25.691146] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:25.691340] TRACE: App: Printed user and tweet BrotherVinny
+[2018-08-02 01:05:26.131055] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:26.131238] TRACE: App: Printed user and tweet WSF_startup
+[2018-08-02 01:05:26.858673] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:26.858860] TRACE: App: Printed user and tweet sophiechoukah
+[2018-08-02 01:05:27.318177] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:27.318373] TRACE: App: Printed user and tweet tsbrenterprises
+[2018-08-02 01:05:28.014548] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:28.126223] TRACE: App: Printed user and tweet v01dMage
+[2018-08-02 01:05:28.474539] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:28.474746] TRACE: App: Printed user and tweet fintech_Innov
+[2018-08-02 01:05:29.298335] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:29.298528] TRACE: App: Printed user and tweet IEvensvold
+[2018-08-02 01:05:29.647980] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:29.648157] TRACE: App: Printed user and tweet AllDesignJobs
+[2018-08-02 01:05:30.463524] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:30.463795] TRACE: App: Printed user and tweet jmspaceblog
+[2018-08-02 01:05:30.797275] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:30.797483] TRACE: App: Printed user and tweet AllDevOpsJobs
+[2018-08-02 01:05:31.638402] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:31.638628] TRACE: App: Printed user and tweet _jovialjoel
+[2018-08-02 01:05:31.962110] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:31.962326] TRACE: App: Printed user and tweet YourStoryCo
+[2018-08-02 01:05:32.796271] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:32.796593] TRACE: App: Printed user and tweet akiregator
+[2018-08-02 01:05:33.120282] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:33.292765] TRACE: App: Printed user and tweet akjhaa007
+[2018-08-02 01:05:33.989190] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:33.989492] TRACE: App: Printed user and tweet Mavanish27
+[2018-08-02 01:05:34.464555] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:34.464805] TRACE: App: Printed user and tweet PhenomComms
+[2018-08-02 01:05:35.143986] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:35.144163] TRACE: App: Printed user and tweet JennaKoslowski
+[2018-08-02 01:05:35.764249] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:35.764424] TRACE: App: Printed user and tweet WTA27911467
+[2018-08-02 01:05:36.266807] TRACE: App: Printed user and tweet IncubateIND
+[2018-08-02 01:05:36.329545] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:36.329720] TRACE: App: Printed user and tweet theresacodes
+[2018-08-02 01:05:37.496008] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:37.496257] TRACE: App: Printed user and tweet michael_neely
+[2018-08-02 01:05:37.592106] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:37.592322] TRACE: App: Printed user and tweet npastohe
+[2018-08-02 01:05:38.671202] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:38.671434] TRACE: App: Printed user and tweet C_Tahirih
+[2018-08-02 01:05:38.772926] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:38.773139] TRACE: App: Printed user and tweet devangshu
+[2018-08-02 01:05:39.988670] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:39.989047] TRACE: App: Printed user and tweet MiguelNorberto_
+[2018-08-02 01:05:41.157520] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:41.157899] TRACE: App: Printed user and tweet Exactly_Good
+[2018-08-02 01:05:42.326706] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:42.326920] TRACE: App: Printed user and tweet mladuke71
+[2018-08-02 01:05:43.640743] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:43.760863] TRACE: App: Printed user and tweet mladuke71
+[2018-08-02 01:05:44.921990] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:44.922179] TRACE: App: Printed user and tweet wanaOBOT
+[2018-08-02 01:05:46.098440] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:46.102721] TRACE: App: Printed user and tweet shaykoala
+[2018-08-02 01:05:47.418668] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:47.418881] TRACE: App: Printed user and tweet DKHannes
+[2018-08-02 01:05:48.576493] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:48.576716] TRACE: App: Printed user and tweet leenyburger
+[2018-08-02 01:05:49.758706] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:49.758970] TRACE: App: Printed user and tweet kaique_munhoz
+[2018-08-02 01:05:50.931124] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:50.931414] TRACE: App: Printed user and tweet AusetAnima
+[2018-08-02 01:05:52.112546] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:52.112814] TRACE: App: Printed user and tweet wanaOBOT
+[2018-08-02 01:05:53.284471] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:53.284644] TRACE: App: Printed user and tweet fabiobernalt
+[2018-08-02 01:05:54.497830] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:54.498056] TRACE: App: Printed user and tweet whereischrissy
+[2018-08-02 01:05:55.658233] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:55.658453] TRACE: App: Printed user and tweet wanaOBOT
+[2018-08-02 01:05:56.830285] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:56.830501] TRACE: App: Printed user and tweet Benneee_
+[2018-08-02 01:05:58.010794] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:58.011075] TRACE: App: Printed user and tweet Ryantehone
+[2018-08-02 01:05:59.181798] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:05:59.297525] TRACE: App: Printed user and tweet tonomoshia
+[2018-08-02 01:06:00.469479] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:00.469751] TRACE: App: Printed user and tweet ReactDOM
+[2018-08-02 01:06:01.749368] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:01.749576] TRACE: App: Printed user and tweet Thanos_is_right
+[2018-08-02 01:06:02.939351] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:02.939574] TRACE: App: Printed user and tweet himashi99
+[2018-08-02 01:06:04.098953] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:04.099172] TRACE: App: Printed user and tweet uta_osanpo
+[2018-08-02 01:06:05.258957] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:05.259144] TRACE: App: Printed user and tweet Geeksby
+[2018-08-02 01:06:06.488165] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:06.488452] TRACE: App: Printed user and tweet nortphoto
+[2018-08-02 01:06:07.657898] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:07.658077] TRACE: App: Printed user and tweet DKHannes
+[2018-08-02 01:06:08.826582] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:08.826811] TRACE: App: Printed user and tweet BrentIanGiles
+[2018-08-02 01:06:10.007931] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:10.008152] TRACE: App: Printed user and tweet Waarum2
+[2018-08-02 01:06:11.319297] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:11.319471] TRACE: App: Printed user and tweet gridflexer
+[2018-08-02 01:06:12.630474] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:12.630691] TRACE: App: Printed user and tweet tommyenglert
+[2018-08-02 01:06:13.796256] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:13.796516] TRACE: App: Printed user and tweet djsbalakrishnan
+[2018-08-02 01:06:14.936585] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:15.087078] TRACE: App: Printed user and tweet tonomoshia
+[2018-08-02 01:06:16.248903] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:16.257327] TRACE: App: Printed user and tweet Laavang
+[2018-08-02 01:06:17.402515] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:17.402790] TRACE: App: Printed user and tweet hrabanmedia
+[2018-08-02 01:06:18.566536] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:18.566800] TRACE: App: Printed user and tweet tonomoshia
+[2018-08-02 01:06:19.709979] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:19.710257] TRACE: App: Printed user and tweet v0idifier
+[2018-08-02 01:06:20.857334] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:20.857592] TRACE: App: Printed user and tweet daslaf
+[2018-08-02 01:06:22.033210] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:22.033481] TRACE: App: Printed user and tweet TA_Coding
+[2018-08-02 01:06:23.211878] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:23.212087] TRACE: App: Printed user and tweet rootuser1024
+[2018-08-02 01:06:24.381869] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:24.382115] TRACE: App: Printed user and tweet johnny_2136
+[2018-08-02 01:06:25.549671] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:25.549886] TRACE: App: Printed user and tweet Benneee_
+[2018-08-02 01:06:26.717558] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:26.717828] TRACE: App: Printed user and tweet yashaslokesh_
+[2018-08-02 01:06:27.898510] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:27.898876] TRACE: App: Printed user and tweet Kooshbag
+[2018-08-02 01:06:29.074618] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:29.074842] TRACE: App: Printed user and tweet Benneee_
+[2018-08-02 01:06:30.232753] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:30.368008] TRACE: App: Printed user and tweet Whoopinstick
+[2018-08-02 01:06:31.546633] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:31.546995] TRACE: App: Printed user and tweet CodersInHood
+[2018-08-02 01:06:32.715640] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:32.715924] TRACE: App: Printed user and tweet GiovanniDLeone
+[2018-08-02 01:06:33.880810] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:33.881001] TRACE: App: Printed user and tweet leenyburger
+[2018-08-02 01:06:35.054081] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:35.054356] TRACE: App: Printed user and tweet MikeSte75008123
+[2018-08-02 01:06:36.237313] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:36.237555] TRACE: App: Printed user and tweet N1kl4sh
+[2018-08-02 01:06:37.547408] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:37.547604] TRACE: App: Printed user and tweet kotaxi_garden
+[2018-08-02 01:06:38.710201] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:38.710468] TRACE: App: Printed user and tweet randypham50
+[2018-08-02 01:06:39.888161] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:39.888432] TRACE: App: Printed user and tweet oipamprina
+[2018-08-02 01:06:41.066249] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:41.066442] TRACE: App: Printed user and tweet vira_mishra
+[2018-08-02 01:06:42.382429] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:42.382651] TRACE: App: Printed user and tweet HossameldinradR
+[2018-08-02 01:06:43.539354] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:43.660599] TRACE: App: Printed user and tweet kevnoutsawo
+[2018-08-02 01:06:44.832777] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:44.833007] TRACE: App: Printed user and tweet leenyburger
+[2018-08-02 01:06:46.134935] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:46.135166] TRACE: App: Printed user and tweet kevnoutsawo
+[2018-08-02 01:06:47.298916] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:47.299138] TRACE: App: Printed user and tweet kosuke_upd
+[2018-08-02 01:06:48.476690] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:48.476912] TRACE: App: Printed user and tweet AntonioGibbardo
+[2018-08-02 01:06:49.672921] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:49.673128] TRACE: App: Printed user and tweet natan_severo
+[2018-08-02 01:06:50.845281] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:50.845556] TRACE: App: Printed user and tweet cvonwilczur
+[2018-08-02 01:06:52.015169] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:52.015348] TRACE: App: Printed user and tweet lastSon36
+[2018-08-02 01:06:53.202205] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:53.202430] TRACE: App: Printed user and tweet cgaochristian
+[2018-08-02 01:06:54.366466] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:54.366646] TRACE: App: Printed user and tweet lastSon36
+[2018-08-02 01:06:55.549629] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:55.666143] TRACE: App: Printed user and tweet MattSayingStuff
+[2018-08-02 01:06:56.856121] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:56.856387] TRACE: App: Printed user and tweet adriandleon
+[2018-08-02 01:06:58.154048] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:58.154247] TRACE: App: Printed user and tweet rmhyphenrf
+[2018-08-02 01:06:59.319066] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:06:59.319342] TRACE: App: Printed user and tweet js_tut
+[2018-08-02 01:07:00.640524] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:00.640695] TRACE: App: Printed user and tweet TerraMeijar
+[2018-08-02 01:07:01.813596] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:01.813808] TRACE: App: Printed user and tweet anakagungcorp
+[2018-08-02 01:07:03.126307] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:03.126509] TRACE: App: Printed user and tweet Mohamme95181070
+[2018-08-02 01:07:04.298744] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:04.299055] TRACE: App: Printed user and tweet Dsf9k
+[2018-08-02 01:07:05.468672] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:05.468947] TRACE: App: Printed user and tweet rmhyphenrf
+[2018-08-02 01:07:06.636881] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:06.637146] TRACE: App: Printed user and tweet ParulCube
+[2018-08-02 01:07:07.803627] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:07.803928] TRACE: App: Printed user and tweet stevelongoria
+[2018-08-02 01:07:08.978511] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:08.978797] TRACE: App: Printed user and tweet brianchenry
+[2018-08-02 01:07:10.142383] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:10.142598] TRACE: App: Printed user and tweet ReactDOM
+[2018-08-02 01:07:11.376814] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:11.533286] TRACE: App: Printed user and tweet adamisanerd
+[2018-08-02 01:07:12.686672] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:12.686873] TRACE: App: Printed user and tweet saraahmed626
+[2018-08-02 01:07:13.850943] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:13.851225] TRACE: App: Printed user and tweet adamisanerd
+[2018-08-02 01:07:15.021333] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:15.021550] TRACE: App: Printed user and tweet BoostlogHQ
+[2018-08-02 01:07:16.188301] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:16.197690] TRACE: App: Printed user and tweet AmandadaSilvaI2
+[2018-08-02 01:07:17.505221] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:17.505485] TRACE: App: Printed user and tweet Geeksby
+[2018-08-02 01:07:18.667434] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:18.667662] TRACE: App: Printed user and tweet _mishikawa
+[2018-08-02 01:07:19.853228] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:19.853544] TRACE: App: Printed user and tweet MrFresh
+[2018-08-02 01:07:21.011773] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:21.012099] TRACE: App: Printed user and tweet JeffAbney8
+[2018-08-02 01:07:22.189417] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:22.189609] TRACE: App: Printed user and tweet SasheemDev
+[2018-08-02 01:07:23.366202] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:23.366400] TRACE: App: Printed user and tweet half_liquid
+[2018-08-02 01:07:24.525159] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:24.660095] TRACE: App: Printed user and tweet ray316316
+[2018-08-02 01:07:25.818257] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:25.818535] TRACE: App: Printed user and tweet kolife01
+[2018-08-02 01:07:26.984882] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:26.985134] TRACE: App: Printed user and tweet Michael26118788
+[2018-08-02 01:07:28.144146] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:28.144427] TRACE: App: Printed user and tweet Dannyhz408
+[2018-08-02 01:07:29.311719] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:29.311983] TRACE: App: Printed user and tweet makepaths
+[2018-08-02 01:07:30.521873] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:30.522095] TRACE: App: Printed user and tweet CHILLMUNG9
+[2018-08-02 01:07:31.819592] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:31.819854] TRACE: App: Printed user and tweet lucinityowen
+[2018-08-02 01:07:32.989792] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:32.990007] TRACE: App: Printed user and tweet carolfreire
+[2018-08-02 01:07:34.149607] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:34.149826] TRACE: App: Printed user and tweet seesamcode
+[2018-08-02 01:07:35.419441] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:35.419714] TRACE: App: Printed user and tweet andrewakagawa
+[2018-08-02 01:07:36.586565] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:36.586748] TRACE: App: Printed user and tweet jm_rives
+[2018-08-02 01:07:37.749291] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:37.749503] TRACE: App: Printed user and tweet angular_js
+[2018-08-02 01:07:39.044360] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:39.044708] TRACE: App: Printed user and tweet TheMapleBeard
+[2018-08-02 01:07:40.213054] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:40.213329] TRACE: App: Printed user and tweet MomsCanCodePgh
+[2018-08-02 01:07:41.380700] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:41.380960] TRACE: App: Printed user and tweet utssme
+[2018-08-02 01:07:42.550914] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:42.676015] TRACE: App: Printed user and tweet y_skw_
+[2018-08-02 01:07:43.838435] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:43.838700] TRACE: App: Printed user and tweet JWatsonIT
+[2018-08-02 01:07:45.003646] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:45.003862] TRACE: App: Printed user and tweet gleiceellen
+[2018-08-02 01:07:46.174607] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:46.184362] TRACE: App: Printed user and tweet debkmila
+[2018-08-02 01:07:47.348402] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:47.348681] TRACE: App: Printed user and tweet MrFresh
+[2018-08-02 01:07:48.516655] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:48.516884] TRACE: App: Printed user and tweet danmikhael
+[2018-08-02 01:07:49.677118] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:49.677340] TRACE: App: Printed user and tweet jetrubyagency
+[2018-08-02 01:07:50.988929] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:50.989336] TRACE: App: Printed user and tweet maddyritalegs
+[2018-08-02 01:07:52.157458] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:52.157676] TRACE: App: Printed user and tweet dkang417
+[2018-08-02 01:07:53.472192] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:53.472422] TRACE: App: Printed user and tweet nihaprezz
+[2018-08-02 01:07:54.635684] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:54.635987] TRACE: App: Printed user and tweet DiogoCaribe_
+[2018-08-02 01:07:55.798948] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:55.799213] TRACE: App: Printed user and tweet CaitlinCuevo
+[2018-08-02 01:07:56.977352] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:56.977536] TRACE: App: Printed user and tweet AllanBlackett27
+[2018-08-02 01:07:58.168301] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:58.168525] TRACE: App: Printed user and tweet leesiewching22
+[2018-08-02 01:07:59.342346] WARNING: App: This is a Tweepy Error: [{'code': 185, 'message': 'User is over daily status update limit.'}]
+[2018-08-02 01:07:59.342567] TRACE: App: Printed user and tweet santiblanko
