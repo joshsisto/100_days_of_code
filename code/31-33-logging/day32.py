@@ -14,7 +14,7 @@ logbook.set_datetime_format("local")
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
-api = tweepy.API(auth)
+api = tweepy.API(auth, wait_on_rate_limit=True)
 
 # my_tweet = input("What would you like to tweet")
 
@@ -31,6 +31,7 @@ def retweet_like_follow(hashtag):
         try:
             # ignore users on the ignore list
             if tweet.user.screen_name in ignore_list:
+                app_log.trace("Skipping {} because they are on the ignore list.".format(tweet.user.screen_name))
                 continue
             # Print user and tweet
             print('\nTweet by: @' + tweet.user.screen_name)
@@ -53,7 +54,7 @@ def retweet_like_follow(hashtag):
                 tweet.user.follow()
                 print('Followed the user')
 
-            sleep(15)
+            sleep(25)
         except ConnectionResetError:
             msg = "You've been disconnected"
             print("ERROR: " + msg)
@@ -110,5 +111,5 @@ if __name__ == '__main__':
     # api.update_status(my_tweet)
     # follow_followers()
     init_logging('twitter_bot.log')
-    retweet_like_follow("startup")
+    retweet_like_follow("100DaysOfCode")
     # print(my_tweet)
