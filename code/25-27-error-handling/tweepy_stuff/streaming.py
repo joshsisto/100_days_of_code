@@ -8,7 +8,10 @@ from tweepy import OAuthHandler
 from tweepy import Stream
 import json
 
-
+consumer_key = 'v6PnUc1baJleHQOU0PLoQrjJh'
+consumer_secret = 'VpnPIGCNBjQQaK6muMRkMyxmtGtjhdrulYwwaBy8EfhIOspKnp'
+access_token = '798343103178358784-19IECbagBM2pzf1KjvqIlg81sVQn08q'
+access_token_secret = 'S3nbsV0TnA4ewN0TAHKNT6M4qMWG4IDqR8MArcPtucD5l'
 
 
 class StdOutListener(StreamListener):

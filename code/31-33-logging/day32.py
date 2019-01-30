@@ -22,7 +22,7 @@ api = tweepy.API(auth, wait_on_rate_limit=True)
 
 ignore_list = ["_30days30sites", "100_DaysOfCode", "100_DaysOfCode_", "100DaysOfCode_", "_100DaysOfCode", "Evil_1T",
                "lancetay", "DaysofcodeNg", "rogue_corq", "muthiimm", "GitLit000", "gadgetgirlcodes", "TheDevelBot",
-               "python_octopus", "AaronCuddeback", "AlexShiresRoth", "WomenWhoCode_", "newtonmunene_yg"]
+               "python_octopus", "AaronCuddeback", "AlexShiresRoth", "WomenWhoCode_", "newtonmunene_yg", "RanitSarker"]
 
 
 def retweet_like_follow(hashtag):
@@ -54,7 +54,7 @@ def retweet_like_follow(hashtag):
                 tweet.user.follow()
                 print('Followed the user')
 
-            sleep(25)
+            sleep(90)
         except ConnectionResetError:
             msg = "You've been disconnected"
             print("ERROR: " + msg)

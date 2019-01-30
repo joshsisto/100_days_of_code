@@ -1,0 +1,160 @@
+[2018-08-18 03:15:37.594973] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: twitter_bot.log
+[2018-08-18 03:15:37.916048] TRACE: App: Skipping _100DaysOfCode because they are on the ignore list.
+[2018-08-18 03:15:37.916219] TRACE: App: Printed user and tweet GeorgeGognadze
+[2018-08-18 03:16:08.020797] TRACE: App: Printed user and tweet PredatorSC
+[2018-08-18 03:16:29.201974] TRACE: App: Skipping _100DaysOfCode because they are on the ignore list.
+[2018-08-18 03:16:29.204543] TRACE: App: Printed user and tweet nonsgrowth
+[2018-08-18 03:16:39.984348] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: twitter_bot.log
+[2018-08-18 03:16:40.238079] TRACE: App: Skipping _100DaysOfCode because they are on the ignore list.
+[2018-08-18 03:16:40.238323] TRACE: App: Printed user and tweet GeorgeGognadze
+[2018-08-18 03:16:41.388009] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-18 03:16:41.388316] TRACE: App: Printed user and tweet PredatorSC
+[2018-08-18 03:16:42.538118] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-18 03:16:42.538354] TRACE: App: Skipping _100DaysOfCode because they are on the ignore list.
+[2018-08-18 03:16:42.538531] TRACE: App: Printed user and tweet nonsgrowth
+[2018-08-18 03:16:43.707441] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-18 03:16:43.711500] TRACE: App: Printed user and tweet stephenmf
+[2018-08-18 03:18:18.217702] TRACE: App: Printed user and tweet PaolaGuarasci
+[2018-08-18 03:19:52.812964] TRACE: App: Printed user and tweet Valerius_de_Hib
+[2018-08-18 03:21:27.609674] TRACE: App: Printed user and tweet AdamHolthouse
+[2018-08-18 03:23:02.389073] TRACE: App: Printed user and tweet sakyo0224
+[2018-08-18 03:24:37.216129] TRACE: App: Printed user and tweet alex_macniven
+[2018-08-18 03:26:12.009783] TRACE: App: Printed user and tweet DraciVik
+[2018-08-18 03:27:46.536136] TRACE: App: Printed user and tweet patric_mutwiri
+[2018-08-18 03:29:21.537285] TRACE: App: Printed user and tweet cgaochristian
+[2018-08-18 03:30:56.074462] TRACE: App: Printed user and tweet patric_mutwiri
+[2018-08-18 03:32:31.178645] TRACE: App: Printed user and tweet mark_elon_
+[2018-08-18 03:34:05.966906] TRACE: App: Printed user and tweet zasuh_
+[2018-08-18 03:35:40.746578] TRACE: App: Skipping _100DaysOfCode because they are on the ignore list.
+[2018-08-18 03:35:40.746831] TRACE: App: Printed user and tweet codeliftparent
+[2018-08-18 03:37:15.587883] TRACE: App: Printed user and tweet palashv2
+[2018-08-18 03:38:50.175873] TRACE: App: Printed user and tweet minkoko1990
+[2018-08-18 03:40:24.996387] TRACE: App: Printed user and tweet rajaneeshtweets
+[2018-08-18 03:41:59.848040] TRACE: App: Printed user and tweet tanjamarathon
+[2018-08-18 03:43:34.442366] TRACE: App: Printed user and tweet disjuntoress
+[2018-08-18 03:45:09.343900] TRACE: App: Printed user and tweet SNamkha
+[2018-08-18 03:46:44.175822] TRACE: App: Printed user and tweet TPonta7257
+[2018-08-18 03:48:18.697527] TRACE: App: Printed user and tweet DanEnglishby
+[2018-08-18 03:49:53.295289] TRACE: App: Printed user and tweet SatiJanne
+[2018-08-18 03:51:28.100963] TRACE: App: Skipping _100DaysOfCode because they are on the ignore list.
+[2018-08-18 03:51:28.101291] TRACE: App: Skipping _100DaysOfCode because they are on the ignore list.
+[2018-08-18 03:51:28.437132] TRACE: App: Printed user and tweet mtisan7
+[2018-08-18 03:51:29.604216] WARNING: App: This is a Tweepy Error: [{'code': 136, 'message': "You have been blocked from retweeting this user's tweets at their request."}]
+[2018-08-18 03:51:29.604444] TRACE: App: Printed user and tweet bajwa_karanvir
+[2018-08-18 03:53:04.392733] TRACE: App: Printed user and tweet Aaron97Lamb
+[2018-08-18 03:54:38.897055] TRACE: App: Printed user and tweet ikayz360
+[2018-08-18 03:56:13.757498] TRACE: App: Printed user and tweet EmiHermes
+[2018-08-18 03:57:48.624654] TRACE: App: Printed user and tweet RostislawSch
+[2018-08-18 03:59:23.488643] TRACE: App: Printed user and tweet m4con
+[2018-08-18 04:00:57.965461] TRACE: App: Printed user and tweet atolatolatol11
+[2018-08-18 04:02:32.513764] TRACE: App: Printed user and tweet ParthHere007
+[2018-08-18 04:04:07.333324] TRACE: App: Printed user and tweet HarowitzBlack
+[2018-08-18 04:05:41.940679] TRACE: App: Printed user and tweet from246to294
+[2018-08-18 04:07:16.682871] TRACE: App: Printed user and tweet lucinityowen
+[2018-08-18 04:08:51.217442] TRACE: App: Printed user and tweet carmaxea
+[2018-08-18 04:10:26.116447] TRACE: App: Printed user and tweet NuzairIb
+[2018-08-18 04:12:00.635707] TRACE: App: Printed user and tweet 1mwtt
+[2018-08-18 04:13:35.512188] TRACE: App: Printed user and tweet Olegator_G
+[2018-08-18 04:15:10.418388] TRACE: App: Printed user and tweet learningtoswift
+[2018-08-18 04:16:45.206005] TRACE: App: Printed user and tweet BenjaminTheDev
+[2018-08-18 04:18:20.079177] TRACE: App: Printed user and tweet ParthHere007
+[2018-08-18 04:19:54.578356] TRACE: App: Skipping _100DaysOfCode because they are on the ignore list.
+[2018-08-18 04:19:54.579086] TRACE: App: Printed user and tweet andreea_collins
+[2018-08-18 04:21:29.476788] TRACE: App: Printed user and tweet nyxerys
+[2018-08-18 04:23:04.252976] TRACE: App: Printed user and tweet intelli5toner
+[2018-08-18 04:24:39.043524] TRACE: App: Printed user and tweet DevGod1Day
+[2018-08-18 04:26:13.606560] TRACE: App: Printed user and tweet ikeoha_chidi
+[2018-08-18 04:27:48.336345] TRACE: App: Printed user and tweet flux_97
+[2018-08-18 04:29:23.226259] TRACE: App: Skipping _100DaysOfCode because they are on the ignore list.
+[2018-08-18 04:29:23.226422] TRACE: App: Skipping _100DaysOfCode because they are on the ignore list.
+[2018-08-18 04:29:23.226547] TRACE: App: Printed user and tweet giogiogioigogio
+[2018-08-18 04:30:58.127396] TRACE: App: Printed user and tweet gongon_kumakuma
+[2018-08-18 04:32:32.950575] TRACE: App: Printed user and tweet lawaldarekayode
+[2018-08-18 04:34:07.729346] TRACE: App: Printed user and tweet EffingKay
+[2018-08-18 04:35:42.513336] TRACE: App: Printed user and tweet jlferrete
+[2018-08-18 04:37:17.367393] TRACE: App: Printed user and tweet tai_hatake
+[2018-08-18 04:38:52.166445] TRACE: App: Skipping _100DaysOfCode because they are on the ignore list.
+[2018-08-18 04:38:52.166896] TRACE: App: Printed user and tweet rick28392719
+[2018-08-18 04:40:27.177477] TRACE: App: Skipping _100DaysOfCode because they are on the ignore list.
+[2018-08-18 04:40:27.177738] TRACE: App: Printed user and tweet goku_maxwell
+[2018-08-18 04:42:01.995604] TRACE: App: Printed user and tweet Lars_Nrlndr
+[2018-08-18 04:43:36.558574] TRACE: App: Printed user and tweet Tanner__Gilbert
+[2018-08-18 04:45:11.324552] TRACE: App: Printed user and tweet carfolia
+[2018-08-18 04:46:46.098812] TRACE: App: Printed user and tweet Christonja
+[2018-08-18 04:48:20.918373] TRACE: App: Printed user and tweet halfpint_utopia
+[2018-08-18 04:49:55.744650] TRACE: App: Skipping GitLit000 because they are on the ignore list.
+[2018-08-18 04:49:55.746654] TRACE: App: Printed user and tweet DanEnglishby
+[2018-08-18 04:51:30.918511] TRACE: App: Printed user and tweet mbaldwinsmith
+[2018-08-18 04:53:05.406651] TRACE: App: Printed user and tweet Mc_Jare_Bear
+[2018-08-18 04:54:40.194560] TRACE: App: Printed user and tweet _nuhu_
+[2018-08-18 04:56:14.923846] TRACE: App: Printed user and tweet half_liquid
+[2018-08-18 04:57:49.763629] TRACE: App: Printed user and tweet mixmarukun
+[2018-08-18 04:59:24.631636] TRACE: App: Printed user and tweet jbweee
+[2018-08-18 05:00:59.737612] TRACE: App: Printed user and tweet theEncodeDna
+[2018-08-18 05:01:25.284421] TRACE: App: Printed user and tweet jbweee
+[2018-08-18 05:10:10.948999] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: twitter_bot.log
+[2018-08-18 05:10:11.232802] TRACE: App: Printed user and tweet ReactDOM
+[2018-08-18 05:11:45.759577] TRACE: App: Printed user and tweet Cass_WT
+[2018-08-18 05:13:20.597883] TRACE: App: Printed user and tweet xk2ykx
+[2018-08-18 05:14:55.536346] TRACE: App: Printed user and tweet rmhyphenrf
+[2018-08-18 05:16:30.275958] TRACE: App: Printed user and tweet techindustan
+[2018-08-18 05:18:05.160112] TRACE: App: Printed user and tweet ichiwakite
+[2018-08-18 05:19:39.649285] TRACE: App: Printed user and tweet Boostlog_js
+[2018-08-18 05:21:14.162972] TRACE: App: Printed user and tweet BoostLog_Python
+[2018-08-18 05:22:48.720972] TRACE: App: Printed user and tweet ITNEXT_io
+[2018-08-18 05:24:23.515835] TRACE: App: Printed user and tweet dbedoyah
+[2018-08-18 05:25:58.281256] TRACE: App: Printed user and tweet shinsou000club
+[2018-08-18 05:27:32.769139] TRACE: App: Printed user and tweet HooperRichard
+[2018-08-18 05:29:08.181630] TRACE: App: Printed user and tweet patric_mutwiri
+[2018-08-18 05:30:42.694733] TRACE: App: Printed user and tweet DevRandomCsGuy
+[2018-08-18 05:32:17.434236] TRACE: App: Skipping _100DaysOfCode because they are on the ignore list.
+[2018-08-18 06:38:22.966445] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: twitter_bot.log
+[2018-08-18 06:38:23.246697] TRACE: App: Printed user and tweet tsumatsumaco
+[2018-08-18 06:39:57.848219] TRACE: App: Printed user and tweet RanitSarker
+[2018-08-18 06:41:32.385754] TRACE: App: Printed user and tweet RanitSarker
+[2018-08-18 06:43:07.011248] TRACE: App: Printed user and tweet RanitSarker
+[2018-08-18 06:44:41.585019] TRACE: App: Printed user and tweet RanitSarker
+[2018-08-18 06:46:16.242230] TRACE: App: Printed user and tweet RanitSarker
+[2018-08-18 06:47:50.970243] TRACE: App: Printed user and tweet RanitSarker
+[2018-08-18 06:49:25.530588] TRACE: App: Printed user and tweet RanitSarker
+[2018-08-18 06:51:28.090163] TRACE: App: Printed user and tweet RanitSarker
+[2018-08-18 06:53:02.655032] TRACE: App: Printed user and tweet RanitSarker
+[2018-08-18 06:53:56.895164] TRACE: App: Printed user and tweet RanitSarker
+[2018-08-18 06:54:26.620729] NOTICE: Startup: Logging initialized, level: 9, mode: file mode: twitter_bot.log
+[2018-08-18 06:54:27.046888] TRACE: App: Printed user and tweet 9yomide
+[2018-08-18 06:56:02.004978] TRACE: App: Printed user and tweet warashibe_do
+[2018-08-18 06:57:36.692285] TRACE: App: Printed user and tweet RegemSemilla
+[2018-08-18 06:59:11.516212] TRACE: App: Printed user and tweet palashv2
+[2018-08-18 07:00:46.115571] TRACE: App: Printed user and tweet edvinasurbasius
+[2018-08-18 07:02:21.109444] TRACE: App: Skipping _100DaysOfCode because they are on the ignore list.
+[2018-08-18 07:02:21.124683] TRACE: App: Skipping _100DaysOfCode because they are on the ignore list.
+[2018-08-18 07:02:21.125089] TRACE: App: Printed user and tweet keita_kn_web
+[2018-08-18 07:03:55.701073] TRACE: App: Printed user and tweet toonakatoo
+[2018-08-18 07:05:30.375670] TRACE: App: Printed user and tweet yohei_tanaka_
+[2018-08-18 07:07:04.919002] TRACE: App: Printed user and tweet akilmhylton
+[2018-08-18 07:08:39.822162] TRACE: App: Printed user and tweet Netnewbee
+[2018-08-18 07:10:14.950546] TRACE: App: Printed user and tweet danirossi1983
+[2018-08-18 07:11:49.809153] TRACE: App: Printed user and tweet naveencoder13
+[2018-08-18 07:13:24.674848] TRACE: App: Printed user and tweet hiroitori
+[2018-08-18 07:14:59.531839] TRACE: App: Printed user and tweet sapi20m56s
+[2018-08-18 07:16:34.455041] TRACE: App: Printed user and tweet AlekseyVYX
+[2018-08-18 07:18:09.517419] TRACE: App: Printed user and tweet AntonDevop
+[2018-08-18 07:19:44.241303] TRACE: App: Printed user and tweet natsu82_
+[2018-08-18 07:21:19.100293] TRACE: App: Printed user and tweet tsumatsumaco
+[2018-08-18 07:21:20.274368] WARNING: App: This is a Tweepy Error: [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+[2018-08-18 07:21:20.274576] TRACE: App: Skipping RanitSarker because they are on the ignore list.
+[2018-08-18 07:21:20.274695] TRACE: App: Skipping RanitSarker because they are on the ignore list.
+[2018-08-18 07:21:20.274802] TRACE: App: Skipping RanitSarker because they are on the ignore list.
+[2018-08-18 07:21:20.274904] TRACE: App: Skipping RanitSarker because they are on the ignore list.
+[2018-08-18 07:21:20.275002] TRACE: App: Skipping RanitSarker because they are on the ignore list.
+[2018-08-18 07:21:20.275127] TRACE: App: Skipping RanitSarker because they are on the ignore list.
+[2018-08-18 07:21:20.275223] TRACE: App: Skipping RanitSarker because they are on the ignore list.
+[2018-08-18 07:21:20.275317] TRACE: App: Skipping RanitSarker because they are on the ignore list.
+[2018-08-18 07:21:20.275422] TRACE: App: Skipping RanitSarker because they are on the ignore list.
+[2018-08-18 07:21:20.275497] TRACE: App: Skipping RanitSarker because they are on the ignore list.
+[2018-08-18 07:21:20.422393] TRACE: App: Skipping RanitSarker because they are on the ignore list.
+[2018-08-18 07:21:20.422542] TRACE: App: Skipping RanitSarker because they are on the ignore list.
+[2018-08-18 07:21:20.422632] TRACE: App: Skipping RanitSarker because they are on the ignore list.
+[2018-08-18 07:21:20.422713] TRACE: App: Skipping RanitSarker because they are on the ignore list.
+[2018-08-18 07:21:20.422817] TRACE: App: Printed user and tweet noppo183cm_
+[2018-08-18 07:22:54.465164] TRACE: App: Printed user and tweet thaisalonso

@@ -10,7 +10,10 @@ import tweepy
 import requests
 from time import sleep
 
-
+consumer_key = 'v6PnUc1baJleHQOU0PLoQrjJh'
+consumer_secret = 'VpnPIGCNBjQQaK6muMRkMyxmtGtjhdrulYwwaBy8EfhIOspKnp'
+access_token = '798343103178358784-19IECbagBM2pzf1KjvqIlg81sVQn08q'
+access_token_secret = 'S3nbsV0TnA4ewN0TAHKNT6M4qMWG4IDqR8MArcPtucD5l'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
@@ -27,7 +30,7 @@ ignore_list = ["_30days30sites", "100_DaysOfCode", "100_DaysOfCode_", "100DaysOf
 
 def retweet_like_follow(hashtag):
     """Retweet, Like, and Follow users based off hashtag"""
-    for tweet in tweepy.Cursor(api.search, q=hashtag + " -filter:retweets", tweet_mode='extended').items():
+    for tweet in tweepy.Cursor(api.search, q=hashtag + " -filter:retweets", tweet_mode='extended', language="en").items():
         try:
             # ignore users on the ignore list
             if tweet.user.screen_name in ignore_list:
@@ -41,9 +44,9 @@ def retweet_like_follow(hashtag):
             sleep(1)
 
             # Retweet tweets as they are found
-            tweet.retweet()
-            print('Retweeted the tweet')
-            sleep(2)
+            # tweet.retweet()
+            # print('Retweeted the tweet')
+            # sleep(2)
 
             # Favorite the tweet
             tweet.favorite()
@@ -81,5 +84,5 @@ if __name__ == '__main__':
 
     # api.update_status(my_tweet)
     # follow_followers()
-    retweet_like_follow("100DaysOfCode")
+    retweet_like_follow("RHONY")
     # print(my_tweet)
